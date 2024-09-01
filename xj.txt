@@ -1,4 +1,13 @@
 📡  江西频道,#genre#
+江西新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxxw
+江西都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxds
+江西经济生活,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxjjsh
+江西影视旅游,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxysly
+江西公共农业,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxggny
+江西少儿,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxse
+江西卫视,http://php.jdshipin.com:8880/jxtv2.php?id=1
+江西移动,http://php.jdshipin.com:8880/jxtv2.php?id=8
+
 江西都市,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227290/10000100000000060000000001722654_0.smil
 江西经济生活,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227092/10000100000000060000000000610996_0.smil
 江西影视旅游,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227287/10000100000000060000000001899760_0.smil
@@ -46,13 +55,13 @@
 江西教育,rtsp://115.153.212.72/PLTV/88888888/224/3221226942/69552502.smil
 
 江西陶瓷,rtsp://115.153.230.145/PLTV/88888888/224/3221227072/105246432.smil
-江西陶瓷,http://live.nctv.top/5678/jx.php?id=9
+江西陶瓷,http://live.nctv.top/6688/jx.php?id=9
 
 江西移动,rtsp://115.153.233.154/PLTV/88888888/224/3221227070/96801473.smil
 
-南昌新闻综合,http://live.nctv.top/5678/nctv.php?id=ncxw
-南昌都市,http://live.nctv.top/5678/nctv.php?id=ncds
-南昌资讯,http://live.nctv.top/5678/nctv.php?id=nczx
+南昌新闻综合,http://live.nctv.top/6688/nctv.php?id=ncxw
+南昌都市,http://live.nctv.top/6688/nctv.php?id=ncds
+南昌资讯,http://live.nctv.top/6688/nctv.php?id=nczx
 南昌新闻综合,http://live.cooltv.top/tv/nctv.php?id=1
 南昌都市,http://live.cooltv.top/tv/nctv.php?id=2
 南昌资讯,http://live.cooltv.top/tv/nctv.php?id=3
@@ -61,40 +70,40 @@
 赣州教育,http://wb.jxgztv.com/live/gztv3.flv
 抚州公共,http://tv.live.fgtxnews.com/fztv/gonggong.m3u8 
 抚州综合,http://tv.live.fgtxnews.com/fztv/zonghe.m3u8
-九江一套,http://live.nctv.top/5678/jxtv.php?id=11
-九江二套,http://live.nctv.top/5678/jxtv.php?id=12
-九江三套,http://live.nctv.top/5678/jxtv.php?id=13
-上饶综合,http://live.nctv.top/5678/jxtv.php?id=14
-上饶经济旅游,http://live.nctv.top/5678/jxtv.php?id=15
-萍乡综合,http://live.nctv.top/5678/jxtv.php?id=16
-萍乡公共,http://live.nctv.top/5678/jxtv.php?id=17
-庐山电视台,http://live.nctv.top/5678/jxtv.php?id=21
-井冈山综合,http://live.nctv.top/5678/jxtv.php?id=22
-修水一套,http://live.nctv.top/5678/jxtv.php?id=23
-都昌新闻,http://live.nctv.top/5678/jxtv.php?id=24
-永修一套,http://live.nctv.top/5678/jxtv.php?id=25
-彭泽一套,http://live.nctv.top/5678/jxtv.php?id=26
-宁都综合,http://live.nctv.top/5678/jxtv.php?id=27
-广丰综合,http://live.nctv.top/5678/jxtv.php?id=28
-余干综合,http://live.nctv.top/5678/jxtv.php?id=29
-万载综合,http://live.nctv.top/5678/jxtv.php?id=30
-武宁新闻,http://live.nctv.top/5678/jxtv.php?id=31
-广昌综合,http://live.nctv.top/5678/jxtv.php?id=32
-铜鼓综合,http://live.nctv.top/5678/jxtv.php?id=33
-铅山综合,http://live.nctv.top/5678/jxtv.php?id=34
-分宜综合,http://live.nctv.top/5678/jxtv.php?id=35
+九江一套,http://live.nctv.top/6688/jxtv.php?id=11
+九江二套,http://live.nctv.top/6688/jxtv.php?id=12
+九江三套,http://live.nctv.top/6688/jxtv.php?id=13
+上饶综合,http://live.nctv.top/6688/jxtv.php?id=14
+上饶经济旅游,http://live.nctv.top/6688/jxtv.php?id=15
+萍乡综合,http://live.nctv.top/6688/jxtv.php?id=16
+萍乡公共,http://live.nctv.top/6688/jxtv.php?id=17
+庐山电视台,http://live.nctv.top/6688/jxtv.php?id=21
+井冈山综合,http://live.nctv.top/6688/jxtv.php?id=22
+修水一套,http://live.nctv.top/6688/jxtv.php?id=23
+都昌新闻,http://live.nctv.top/6688/jxtv.php?id=24
+永修一套,http://live.nctv.top/6688/jxtv.php?id=25
+彭泽一套,http://live.nctv.top/6688/jxtv.php?id=26
+宁都综合,http://live.nctv.top/6688/jxtv.php?id=27
+广丰综合,http://live.nctv.top/6688/jxtv.php?id=28
+余干综合,http://live.nctv.top/6688/jxtv.php?id=29
+万载综合,http://live.nctv.top/6688/jxtv.php?id=30
+武宁新闻,http://live.nctv.top/6688/jxtv.php?id=31
+广昌综合,http://live.nctv.top/6688/jxtv.php?id=32
+铜鼓综合,http://live.nctv.top/6688/jxtv.php?id=33
+铅山综合,http://live.nctv.top/6688/jxtv.php?id=34
+分宜综合,http://live.nctv.top/6688/jxtv.php?id=35
 
 📡  江苏频道,#genre#
 
-江苏卫视,http://live.nctv.top/5678/jstv.php?id=jsws
-江苏城市,http://live.nctv.top/5678/jstv.php?id=jscs
-江苏综艺,http://live.nctv.top/5678/jstv.php?id=jszy
-江苏影视,http://live.nctv.top/5678/jstv.php?id=jsys
-江苏新闻,http://live.nctv.top/5678/jstv.php?id=jsxw
-江苏体育,http://live.nctv.top/5678/jstv.php?id=jsty
-优漫卡通,http://live.nctv.top/5678/jstv.php?id=ymkt
-江苏国际,http://live.nctv.top/5678/jstv.php?id=jsgj
-江苏教育,http://live.nctv.top/5678/jstv.php?id=jsjy
+江苏卫视,http://live.nctv.top/6688/jstv.php?id=jsws
+江苏城市,http://live.nctv.top/6688/jstv.php?id=jscs
+江苏综艺,http://live.nctv.top/6688/jstv.php?id=jszy
+江苏影视,http://live.nctv.top/6688/jstv.php?id=jsys
+江苏新闻,http://live.nctv.top/6688/jstv.php?id=jsxw
+江苏体育,http://live.nctv.top/6688/jstv.php?id=jsty
+优漫卡通,http://live.nctv.top/6688/jstv.php?id=ymkt
+江苏国际,http://live.nctv.top/6688/jstv.php?id=jsgj
+江苏教育,http://live.nctv.top/6688/jstv.php?id=jsjy
 
 江苏卫视,http://dsm.52nantong.net:8800/udp/239.49.8.138:6000
 江苏新闻,http://dsm.52nantong.net:8800/udp/239.49.8.120:8000
@@ -187,43 +196,43 @@
 
 📡  河南频道,#genre#
 
-河南卫视,http://live.nctv.top/5678/hntv.php?id=hnws
-河南新闻频道,http://live.nctv.top/5678/hntv.php?id=hnxw
-河南都市频道,http://live.nctv.top/5678/hntv.php?id=hnds
-河南民生频道,http://live.nctv.top/5678/hntv.php?id=hnms
-河南法治频道,http://live.nctv.top/5678/hntv.php?id=hnfz
-河南电视剧频道,http://live.nctv.top/5678/hntv.php?id=hndsj
-河南公共频道,http://live.nctv.top/5678/hntv.php?id=hngg
-河南乡村频道,http://live.nctv.top/5678/hntv.php?id=hnxc
-河南国际频道,http://live.nctv.top/5678/hntv.php?id=hngj
-河南梨园频道,http://live.nctv.top/5678/hntv.php?id=hnly
-河南文物宝库,http://live.nctv.top/5678/hntv.php?id=wwbk
-河南武术世界,http://live.nctv.top/5678/hntv.php?id=wspd
-睛彩中原,http://live.nctv.top/5678/hntv.php?id=jczy
-象视界,http://live.nctv.top/5678/hntv.php?id=xsj
-国学频道,http://live.nctv.top/5678/hntv.php?id=gxpd
+河南卫视,http://live.nctv.top/6688/hntv.php?id=hnws
+河南新闻频道,http://live.nctv.top/6688/hntv.php?id=hnxw
+河南都市频道,http://live.nctv.top/6688/hntv.php?id=hnds
+河南民生频道,http://live.nctv.top/6688/hntv.php?id=hnms
+河南法治频道,http://live.nctv.top/6688/hntv.php?id=hnfz
+河南电视剧频道,http://live.nctv.top/6688/hntv.php?id=hndsj
+河南公共频道,http://live.nctv.top/6688/hntv.php?id=hngg
+河南乡村频道,http://live.nctv.top/6688/hntv.php?id=hnxc
+河南国际频道,http://live.nctv.top/6688/hntv.php?id=hngj
+河南梨园频道,http://live.nctv.top/6688/hntv.php?id=hnly
+河南文物宝库,http://live.nctv.top/6688/hntv.php?id=wwbk
+河南武术世界,http://live.nctv.top/6688/hntv.php?id=wspd
+睛彩中原,http://live.nctv.top/6688/hntv.php?id=jczy
+象视界,http://live.nctv.top/6688/hntv.php?id=xsj
+国学频道,http://live.nctv.top/6688/hntv.php?id=gxpd
 
-郑州新闻综合,http://live.nctv.top/5678/hntv.php?id=zz1
-开封新闻综合,http://live.nctv.top/5678/hntv.php?id=kf1
-洛阳新闻综合,http://live.nctv.top/5678/hntv.php?id=ly1
-平顶山新闻综合,http://live.nctv.top/5678/hntv.php?id=pds1
-安阳新闻综合,http://live.nctv.top/5678/hntv.php?id=ay1
-鹤壁新闻综合,http://live.nctv.top/5678/hntv.php?id=hb1
-新乡新闻综合,http://live.nctv.top/5678/hntv.php?id=xx1
-焦作新闻综合,http://live.nctv.top/5678/hntv.php?id=jz1
-濮阳新闻综合,http://live.nctv.top/5678/hntv.php?id=py1
-许昌新闻综合,http://live.nctv.top/5678/hntv.php?id=xc1
-漯河新闻综合,http://live.nctv.top/5678/hntv.php?id=lh1
-三门峡新闻综合,http://live.nctv.top/5678/hntv.php?id=smx1
-南阳新闻综合,http://live.nctv.top/5678/hntv.php?id=ny1
-商丘新闻综合,http://live.nctv.top/5678/hntv.php?id=sq1
-信阳新闻综合,http://live.nctv.top/5678/hntv.php?id=xy1
-周口新闻综合,http://live.nctv.top/5678/hntv.php?id=zk1
-驻马店新闻综合,http://live.nctv.top/5678/hntv.php?id=zmd1
-济源新闻综合,http://live.nctv.top/5678/hntv.php?id=jy1
+郑州新闻综合,http://live.nctv.top/6688/hntv.php?id=zz1
+开封新闻综合,http://live.nctv.top/6688/hntv.php?id=kf1
+洛阳新闻综合,http://live.nctv.top/6688/hntv.php?id=ly1
+平顶山新闻综合,http://live.nctv.top/6688/hntv.php?id=pds1
+安阳新闻综合,http://live.nctv.top/6688/hntv.php?id=ay1
+鹤壁新闻综合,http://live.nctv.top/6688/hntv.php?id=hb1
+新乡新闻综合,http://live.nctv.top/6688/hntv.php?id=xx1
+焦作新闻综合,http://live.nctv.top/6688/hntv.php?id=jz1
+濮阳新闻综合,http://live.nctv.top/6688/hntv.php?id=py1
+许昌新闻综合,http://live.nctv.top/6688/hntv.php?id=xc1
+漯河新闻综合,http://live.nctv.top/6688/hntv.php?id=lh1
+三门峡新闻综合,http://live.nctv.top/6688/hntv.php?id=smx1
+南阳新闻综合,http://live.nctv.top/6688/hntv.php?id=ny1
+商丘新闻综合,http://live.nctv.top/6688/hntv.php?id=sq1
+信阳新闻综合,http://live.nctv.top/6688/hntv.php?id=xy1
+周口新闻综合,http://live.nctv.top/6688/hntv.php?id=zk1
+驻马店新闻综合,http://live.nctv.top/6688/hntv.php?id=zmd1
+济源新闻综合,http://live.nctv.top/6688/hntv.php?id=jy1
 
 🇨🇳虎牙直播,#genre#
-哆啦A梦,http://live.nctv.top/5678/huya.php?id=11601963
+哆啦A梦,http://live.nctv.top/6688/huya.php?id=11601963
 哆啦A梦,https://live.metshop.top/huya/11601963
 哆啦A梦,http://mmitv.top/pltv/huya.php?id=11601963
 哆啦A梦,http://cfss.cc/cdn/hy/11601963.flv
@@ -370,28 +379,28 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 鹿鼎记,https://live.metshop.top/yy/1382704650
 鹿鼎记,https://live.metshop.top/yy/28265277
-鹿鼎记,http://live.nctv.top/5678/yy.php?id=382704650
+鹿鼎记,http://live.nctv.top/6688/yy.php?id=382704650
 鹿鼎记,http://cfss.cc/api/yy/1382704650.m3u8
-射雕英雄传,http://live.nctv.top/5678/yy.php?id=1354210357
+射雕英雄传,http://live.nctv.top/6688/yy.php?id=1354210357
 射雕英雄传,http://cfss.cc/api/yy/1354210357.m3u8
-神雕侠侣,http://live.nctv.top/5678/yy.php?id=1351762426
+神雕侠侣,http://live.nctv.top/6688/yy.php?id=1351762426
 神雕侠侣,http://cfss.cc/api/yy/1351762426.m3u8
 神雕侠侣,https://live.metshop.top/yy/1351762426
-天龙八部,http://live.nctv.top/5678/yy.php?id=1351814644
+天龙八部,http://live.nctv.top/6688/yy.php?id=1351814644
 天龙八部,http://cfss.cc/api/yy/1351814644.m3u8
 天龙八部,https://live.metshop.top/yy/1351814644
-笑傲江湖,http://live.nctv.top/5678/yy.php?id=1354930909
+笑傲江湖,http://live.nctv.top/6688/yy.php?id=1354930909
 笑傲江湖,https://live.metshop.top/yy/1354930909
-寻秦记,http://live.nctv.top/5678/yy.php?id=1382749900#https://live.metshop.top/yy/1382749900
-金玉满堂,http://live.nctv.top/5678/yy.php?id=1382736881#https://live.metshop.top/yy/1382736881
-宫心计,http://live.nctv.top/5678/yy.php?id=1354933540#http://43.138.170.29:35455/yy/1354933540
+寻秦记,http://live.nctv.top/6688/yy.php?id=1382749900#https://live.metshop.top/yy/1382749900
+金玉满堂,http://live.nctv.top/6688/yy.php?id=1382736881#https://live.metshop.top/yy/1382736881
+宫心计,http://live.nctv.top/6688/yy.php?id=1354933540#http://43.138.170.29:35455/yy/1354933540
 
-康熙王朝,http://live.nctv.top/5678/yy.php?id=1382736818
+康熙王朝,http://live.nctv.top/6688/yy.php?id=1382736818
 康熙王朝,http://cfss.cc/cdn/hy/11352940.flv
 康熙王朝,https://epg.112114.xyz/huya/11352940
 康熙王朝,https://live.metshop.top/yy/1382736818
 
-港片赌片,http://live.nctv.top/5678/yy.php?id=1355076627
+港片赌片,http://live.nctv.top/6688/yy.php?id=1355076627
 港片赌片,http://cfss.cc/api/yy/1355076627.m3u8
 港片赌片,https://live.metshop.top/yy/1355076627
 
@@ -990,176 +999,176 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 
 🇨🇳电视剧轮播,#genre#
 
-康熙王朝,http://live.nctv.top/5678/yy.php?id=1382736818#https://live.metshop.top/yy/1382736818
-雍正王朝,http://live.nctv.top/5678/yy.php?id=1356043620#https://live.metshop.top/huya/11342439#http://cfss.cc/cdn/hy/11342439.flv
-纪晓岚,http://live.nctv.top/5678/yy.php?id=1382781415#https://live.metshop.top/yy/1382781415
-宰相刘罗锅,http://live.nctv.top/5678/yy.php?id=1353892468#https://lunbo.freetv.top/yy/1353892468
-神医喜来乐,http://live.nctv.top/5678/yy.php?id=1382714119#https://live.metshop.top/yy/1382714119#https://lunbo.freetv.top/yy/1382714119
-天龙八部,http://live.nctv.top/5678/yy.php?id=1351814644#https://live.metshop.top/yy/1351814644
-神雕侠侣,http://live.nctv.top/5678/yy.php?id=1351762426#https://live.metshop.top/yy/1351762426#https://lunbo.freetv.top/yy/1351762426
-笑傲江湖,http://live.nctv.top/5678/yy.php?id=1354930909#https://live.metshop.top/yy/1354930909
-射雕英雄传83版,http://live.nctv.top/5678/yy.php?id=1354210357#https://lunbo.freetv.top/yy/1354210357
-鹿鼎记,https://live.metshop.top/yy/1382704650#http://live.nctv.top/5678/yy.php?id=28265277#https://live.metshop.top/yy/28265277#https://lunbo.freetv.top/yy/1382736920
-寻秦记,http://live.nctv.top/5678/yy.php?id=1382749900#,https://live.metshop.top/yy/1382749900
-金玉满堂,http://live.nctv.top/5678/yy.php?id=1382736881#https://live.metshop.top/yy/1382736881
-宫心计,http://live.nctv.top/5678/yy.php?id=1354933540#http://43.138.170.29:35455/yy/1354933540
-上海滩,http://live.nctv.top/5678/yy.php?id=1382745184#https://live.metshop.top/yy/1382745184
-大时代,http://live.nctv.top/5678/yy.php?id=1354930891#https://live.metshop.top/yy/1354930891#https://lunbo.freetv.top/yy/1354930891
-新白娘子传奇,http://live.nctv.top/5678/yy.php?id=1354490667#https://live.metshop.top/yy/1354490667#http://43.138.170.29:35455/yy/1354930969
-溏心风暴之家好月圆,http://live.nctv.top/5678/yy.php?id=1354888747#http://live.nctv.top/5678/yy.php?id=1354888747#https://lunbo.freetv.top/yy/1354888747
-封神榜,http://live.nctv.top/5678/yy.php?id=1356043643#https://live.metshop.top/yy/1356043643
-打狗棍,http://live.nctv.top/5678/yy.php?id=39736069#https://live.metshop.top/yy/39736069
-战狼,http://live.nctv.top/5678/yy.php?id=1354784966#https://live.metshop.top/yy/1354784966
-隋唐英雄传,http://live.nctv.top/5678/yy.php?id=1352475619#https://live.metshop.top/yy/1352475619
-鹊刀门,http://live.nctv.top/5678/yy.php?id=1355344777#https://live.metshop.top/yy/1355344777
-正阳门下,http://live.nctv.top/5678/yy.php?id=1354931580#https://live.metshop.top/yy/1354931580
-鸡毛飞上天,http://live.nctv.top/5678/yy.php?id=1461033197#https://live.metshop.top/yy/1461033197
-火蓝刀锋,http://live.nctv.top/5678/yy.php?id=1382737892#https://live.metshop.top/yy/1382737892
-钟馗传说,http://live.nctv.top/5678/yy.php?id=1382736839#https://live.metshop.top/yy/1382736839
-三国演义,http://live.nctv.top/5678/yy.php?id=1354936241#https://live.metshop.top/yy/1354936241
-狂飙,http://live.nctv.top/5678/yy.php?id=1355142167#https://live.metshop.top/yy/1355142167
-红楼梦,http://live.nctv.top/5678/yy.php?id=1382745084#https://live.metshop.top/yy/1382745084#https://lunbo.freetv.top/yy/1382745084
-谈判专家,http://live.nctv.top/5678/yy.php?id=1382735560#https://lunbo.freetv.top/yy/1382735560
-伪装者,http://live.nctv.top/5678/yy.php?id=1382851593#https://lunbo.freetv.top/yy/1382851593
-济公游记,http://live.nctv.top/5678/yy.php?id=1355265814#http://43.138.170.29:35455/yy/1355265814
-西游记,http://live.nctv.top/5678/yy.php?id=8953746#http://43.138.170.29:35455/douyu/8953746
-周星驰,http://live.nctv.top/5678/yy.php?id=1382736808#https://live.metshop.top/yy/1382736808
-恐怖鬼片,http://live.nctv.top/5678/yy.php?id=1355641195#https://live.metshop.top/yy/1355641195
-港片动作,http://live.nctv.top/5678/yy.php?id=1355480591#https://live.metshop.top/yy/1355480591
+康熙王朝,http://live.nctv.top/6688/yy.php?id=1382736818#https://live.metshop.top/yy/1382736818
+雍正王朝,http://live.nctv.top/6688/yy.php?id=1356043620#https://live.metshop.top/huya/11342439#http://cfss.cc/cdn/hy/11342439.flv
+纪晓岚,http://live.nctv.top/6688/yy.php?id=1382781415#https://live.metshop.top/yy/1382781415
+宰相刘罗锅,http://live.nctv.top/6688/yy.php?id=1353892468#https://lunbo.freetv.top/yy/1353892468
+神医喜来乐,http://live.nctv.top/6688/yy.php?id=1382714119#https://live.metshop.top/yy/1382714119#https://lunbo.freetv.top/yy/1382714119
+天龙八部,http://live.nctv.top/6688/yy.php?id=1351814644#https://live.metshop.top/yy/1351814644
+神雕侠侣,http://live.nctv.top/6688/yy.php?id=1351762426#https://live.metshop.top/yy/1351762426#https://lunbo.freetv.top/yy/1351762426
+笑傲江湖,http://live.nctv.top/6688/yy.php?id=1354930909#https://live.metshop.top/yy/1354930909
+射雕英雄传83版,http://live.nctv.top/6688/yy.php?id=1354210357#https://lunbo.freetv.top/yy/1354210357
+鹿鼎记,https://live.metshop.top/yy/1382704650#http://live.nctv.top/6688/yy.php?id=28265277#https://live.metshop.top/yy/28265277#https://lunbo.freetv.top/yy/1382736920
+寻秦记,http://live.nctv.top/6688/yy.php?id=1382749900#,https://live.metshop.top/yy/1382749900
+金玉满堂,http://live.nctv.top/6688/yy.php?id=1382736881#https://live.metshop.top/yy/1382736881
+宫心计,http://live.nctv.top/6688/yy.php?id=1354933540#http://43.138.170.29:35455/yy/1354933540
+上海滩,http://live.nctv.top/6688/yy.php?id=1382745184#https://live.metshop.top/yy/1382745184
+大时代,http://live.nctv.top/6688/yy.php?id=1354930891#https://live.metshop.top/yy/1354930891#https://lunbo.freetv.top/yy/1354930891
+新白娘子传奇,http://live.nctv.top/6688/yy.php?id=1354490667#https://live.metshop.top/yy/1354490667#http://43.138.170.29:35455/yy/1354930969
+溏心风暴之家好月圆,http://live.nctv.top/6688/yy.php?id=1354888747#http://live.nctv.top/6688/yy.php?id=1354888747#https://lunbo.freetv.top/yy/1354888747
+封神榜,http://live.nctv.top/6688/yy.php?id=1356043643#https://live.metshop.top/yy/1356043643
+打狗棍,http://live.nctv.top/6688/yy.php?id=39736069#https://live.metshop.top/yy/39736069
+战狼,http://live.nctv.top/6688/yy.php?id=1354784966#https://live.metshop.top/yy/1354784966
+隋唐英雄传,http://live.nctv.top/6688/yy.php?id=1352475619#https://live.metshop.top/yy/1352475619
+鹊刀门,http://live.nctv.top/6688/yy.php?id=1355344777#https://live.metshop.top/yy/1355344777
+正阳门下,http://live.nctv.top/6688/yy.php?id=1354931580#https://live.metshop.top/yy/1354931580
+鸡毛飞上天,http://live.nctv.top/6688/yy.php?id=1461033197#https://live.metshop.top/yy/1461033197
+火蓝刀锋,http://live.nctv.top/6688/yy.php?id=1382737892#https://live.metshop.top/yy/1382737892
+钟馗传说,http://live.nctv.top/6688/yy.php?id=1382736839#https://live.metshop.top/yy/1382736839
+三国演义,http://live.nctv.top/6688/yy.php?id=1354936241#https://live.metshop.top/yy/1354936241
+狂飙,http://live.nctv.top/6688/yy.php?id=1355142167#https://live.metshop.top/yy/1355142167
+红楼梦,http://live.nctv.top/6688/yy.php?id=1382745084#https://live.metshop.top/yy/1382745084#https://lunbo.freetv.top/yy/1382745084
+谈判专家,http://live.nctv.top/6688/yy.php?id=1382735560#https://lunbo.freetv.top/yy/1382735560
+伪装者,http://live.nctv.top/6688/yy.php?id=1382851593#https://lunbo.freetv.top/yy/1382851593
+济公游记,http://live.nctv.top/6688/yy.php?id=1355265814#http://43.138.170.29:35455/yy/1355265814
+西游记,http://live.nctv.top/6688/yy.php?id=8953746#http://43.138.170.29:35455/douyu/8953746
+周星驰,http://live.nctv.top/6688/yy.php?id=1382736808#https://live.metshop.top/yy/1382736808
+恐怖鬼片,http://live.nctv.top/6688/yy.php?id=1355641195#https://live.metshop.top/yy/1355641195
+港片动作,http://live.nctv.top/6688/yy.php?id=1355480591#https://live.metshop.top/yy/1355480591
 
 🇨🇳 YY频道,#genre#
-周星驰,http://live.nctv.top/5678/yy.php?id=1382851590
-周润发,http://live.nctv.top/5678/yy.php?id=1354888733
-林正英①,http://live.nctv.top/5678/yy.php?id=1354932444
-林正英②,http://live.nctv.top/5678/yy.php?id=1453996620
-憨豆先生,http://live.nctv.top/5678/yy.php?id=1354930189
-小鬼当家,http://live.nctv.top/5678/yy.php?id=1382745104
-天龙八部（国语版）,http://live.nctv.top/5678/yy.php?id=1382736855
-上海滩,http://live.nctv.top/5678/yy.php?id=1382745184
-洪金宝福星系列,http://live.nctv.top/5678/yy.php?id=1354924839
-野山鹰-影视剧,http://live.nctv.top/5678/yy.php?id=1354932395
-钟馗传说,http://live.nctv.top/5678/yy.php?id=1382736839
-蔡明春晚小品,http://live.nctv.top/5678/yy.php?id=1354936177
-宰相刘罗锅,http://live.nctv.top/5678/yy.php?id=1382745191
-神探狄仁杰2,http://live.nctv.top/5678/yy.php?id=1382828767
-欢乐集结号-每天笑不停,http://live.nctv.top/5678/yy.php?id=1382741642
-鹿鼎记-周星驰版,http://live.nctv.top/5678/yy.php?id=1354658049
-举起手来-惊险抗日,http://live.nctv.top/5678/yy.php?id=1382736877
-花儿开心吧,http://live.nctv.top/5678/yy.php?id=1354930984
-星爷经典-百看不厌,http://live.nctv.top/5678/yy.php?id=1382736808
-火蓝刀锋,http://live.nctv.top/5678/yy.php?id=1382737892
-神探狄仁杰1,http://live.nctv.top/5678/yy.php?id=1354930934
-笑傲江湖,http://live.nctv.top/5678/yy.php?id=1354930909
-康熙王朝,http://live.nctv.top/5678/yy.php?id=1382736818
-你最爱的宋小宝,http://live.nctv.top/5678/yy.php?id=1354936198
-西游记后传,http://live.nctv.top/5678/yy.php?id=1382736846
-寻秦记-穿越剧经典,http://live.nctv.top/5678/yy.php?id=1382749900
-天道-9.2高分好剧,http://live.nctv.top/5678/yy.php?id=1382735574
-父母爱情,http://live.nctv.top/5678/yy.php?id=1354926650
-三国演义94年经典版,http://live.nctv.top/5678/yy.php?id=1354936241
-双月之城-国漫,http://live.nctv.top/5678/yy.php?id=1382736907
-少年包青天第三部,http://live.nctv.top/5678/yy.php?id=1382736814
-单挑荒野第一季,http://live.nctv.top/5678/yy.php?id=1354933535
-欢乐集结号,http://live.nctv.top/5678/yy.php?id=1354931582
-我爱我家,http://live.nctv.top/5678/yy.php?id=1382735557
-易中天品三国,http://live.nctv.top/5678/yy.php?id=1354931498
-炊事班的故事II,http://live.nctv.top/5678/yy.php?id=1382736885
-士兵突击,http://live.nctv.top/5678/yy.php?id=1382828766
-变形金刚,http://live.nctv.top/5678/yy.php?id=1382736803
-澳门风云,http://live.nctv.top/5678/yy.php?id=1459243913
-今夜欢乐颂,http://live.nctv.top/5678/yy.php?id=1382735572
-法证先锋Ⅱ,http://live.nctv.top/5678/yy.php?id=1354888736
-情满四合院,http://live.nctv.top/5678/yy.php?id=1382736848
-魔幻手机,http://live.nctv.top/5678/yy.php?id=1382735544
-情满四合院,http://live.nctv.top/5678/yy.php?id=1382736888
-伪装者,http://live.nctv.top/5678/yy.php?id=1354936244
-热门喜剧,http://live.nctv.top/5678/yy.php?id=1354931495
-欢乐集结号,http://live.nctv.top/5678/yy.php?id=1382735550
-大明王朝,http://live.nctv.top/5678/yy.php?id=1382736879
-法证先锋2,http://live.nctv.top/5678/yy.php?id=1382736870
-开饭了大熊猫,http://live.nctv.top/5678/yy.php?id=1382741641
-炊事班的故事,http://live.nctv.top/5678/yy.php?id=1382749901
-新世界,http://live.nctv.top/5678/yy.php?id=1382736850
-华子系列,http://live.nctv.top/5678/yy.php?id=1354888726
-金婚,http://live.nctv.top/5678/yy.php?id=1382736832
-超炫科幻大片,http://live.nctv.top/5678/yy.php?id=1382736840
-灌篮高手,http://live.nctv.top/5678/yy.php?id=1382735626
-成龙系列,http://live.nctv.top/5678/yy.php?id=1354888751
-欢乐集结号3,http://live.nctv.top/5678/yy.php?id=1382736822
-无敌县令,http://live.nctv.top/5678/yy.php?id=1354932390
-小敏,http://live.nctv.top/5678/yy.php?id=1382736890
-笑傲帮,http://live.nctv.top/5678/yy.php?id=1382735555
-平凡岁月,http://live.nctv.top/5678/yy.php?id=1382745117
-黑冰,http://live.nctv.top/5678/yy.php?id=1354932427
-国内战争大片合集,http://live.nctv.top/5678/yy.php?id=1382749950
-粟裕大将-影视,http://live.nctv.top/5678/yy.php?id=1354926542
-天下第一,http://live.nctv.top/5678/yy.php?id=1382736838
-洪大哥系列,http://live.nctv.top/5678/yy.php?id=1354888743
-漫威超级英雄系列,http://live.nctv.top/5678/yy.php?id=1354932402
-传奇英雄,http://live.nctv.top/5678/yy.php?id=1382735578
-妖神记,http://live.nctv.top/5678/yy.php?id=1382745171
-中国味道 第4季-美食纪录片,http://live.nctv.top/5678/yy.php?id=1382736845
-百家讲坛――之明太祖朱元璋,http://live.nctv.top/5678/yy.php?id=1354936149
-热血动作片合集,http://live.nctv.top/5678/yy.php?id=1382735627
-香港动作大片,http://live.nctv.top/5678/yy.php?id=1382736816
-新主播，求照顾,http://live.nctv.top/5678/yy.php?id=1382690406
-尽享国内精彩战争片,http://live.nctv.top/5678/yy.php?id=1382745094
-X战警系列电影,http://live.nctv.top/5678/yy.php?id=1382736893
-河山,http://live.nctv.top/5678/yy.php?id=1382749952
-忠烈杨家将,http://live.nctv.top/5678/yy.php?id=1382749909
-天龙八部,http://live.nctv.top/5678/yy.php?id=1382749944
-仙剑奇侠传-神仙姐姐驾到,http://live.nctv.top/5678/yy.php?id=1382749903
-十大经典港剧之《大时代》,http://live.nctv.top/5678/yy.php?id=1354930891
-熊出没之探险日记S1-国漫,http://live.nctv.top/5678/yy.php?id=1354930977
-探秘中华美食,http://live.nctv.top/5678/yy.php?id=1354930954
-高分动作大片-热血出击,http://live.nctv.top/5678/yy.php?id=1382736909
-聊斋志异S1,http://live.nctv.top/5678/yy.php?id=1382736975
-法证先锋Ⅲ,http://live.nctv.top/5678/yy.php?id=1382736802
-农家小菜,http://live.nctv.top/5678/yy.php?id=1382736894
-国内动作大片,http://live.nctv.top/5678/yy.php?id=1382749917
-飞虎之潜行极战,http://live.nctv.top/5678/yy.php?id=1354932420
-超级英雄系列电影,http://live.nctv.top/5678/yy.php?id=1382736863
-末日系列-外国电影合集,http://live.nctv.top/5678/yy.php?id=1354889019
-大汉贤后卫子夫,http://live.nctv.top/5678/yy.php?id=1382735569
-风靡全球的谍战片,http://live.nctv.top/5678/yy.php?id=1382736817
-珍珠港-电影,http://live.nctv.top/5678/yy.php?id=1354936234
-科幻大片,http://live.nctv.top/5678/yy.php?id=1382745181
-生逢灿烂的日子,http://live.nctv.top/5678/yy.php?id=1382745085
-妖神记之黑狱篇,http://live.nctv.top/5678/yy.php?id=1382745173
-超燃动作大片,http://live.nctv.top/5678/yy.php?id=1382749940
-战火中的故事,http://live.nctv.top/5678/yy.php?id=1382735625
-小戏骨黄飞鸿,http://live.nctv.top/5678/yy.php?id=1354936181
-请回答1988,http://live.nctv.top/5678/yy.php?id=1354932362
-9.8分！这部纪录片封神了,http://live.nctv.top/5678/yy.php?id=1382736825
-叛逆者,http://live.nctv.top/5678/yy.php?id=1382736868
-萌鸡小队S1-国漫,http://live.nctv.top/5678/yy.php?id=1382736904
-特种兵归来-国产电影,http://live.nctv.top/5678/yy.php?id=1382735581
-国外高分大片,http://live.nctv.top/5678/yy.php?id=1382736867
-第8号当铺,http://live.nctv.top/5678/yy.php?id=1382736905
-本山快乐营,http://live.nctv.top/5678/yy.php?id=1354933529
-小米粒Mili,http://live.nctv.top/5678/yy.php?id=1382736842
-老广的味道 第3季-美食纪录片,http://live.nctv.top/5678/yy.php?id=1382735565
-我的父亲我的兵,http://live.nctv.top/5678/yy.php?id=1353413714
-大唐双龙传,http://live.nctv.top/5678/yy.php?id=1354930979
-漫画解说,http://live.nctv.top/5678/yy.php?id=1382735568
-战争大片,http://live.nctv.top/5678/yy.php?id=1382736798
-名媛望族-精彩港剧,http://live.nctv.top/5678/yy.php?id=1354932431
-大汉天子S2,http://live.nctv.top/5678/yy.php?id=1382736807
-来看修牛蹄,http://live.nctv.top/5678/yy.php?id=1382749887
-国内科幻片来袭,http://live.nctv.top/5678/yy.php?id=1354930821
-动作大片,http://live.nctv.top/5678/yy.php?id=1354930887
-苦乐村官,http://live.nctv.top/5678/yy.php?id=1382736864
-金装四大才子,http://live.nctv.top/5678/yy.php?id=1354926600
-心理追凶-港剧,http://live.nctv.top/5678/yy.php?id=1354936207
-非诚勿扰,http://live.nctv.top/5678/yy.php?id=1382745100
-白夜追凶第一季,http://live.nctv.top/5678/yy.php?id=1354932359
-地球上的地狱,http://live.nctv.top/5678/yy.php?id=1382736918
-寻味顺德-美食纪录片,http://live.nctv.top/5678/yy.php?id=1382736844
-岳云鹏宋小宝也来演电影了？,http://live.nctv.top/5678/yy.php?id=1354926612
-赶海新发现-海洋里有什么,http://live.nctv.top/5678/yy.php?id=1382749912
-经典二战,http://live.nctv.top/5678/yy.php?id=1354936238
-解放：苏联战争巨片,http://live.nctv.top/5678/yy.php?id=1354936249
-大汉天子S3,http://live.nctv.top/5678/yy.php?id=1382736810
+周星驰,http://live.nctv.top/6688/yy.php?id=1382851590
+周润发,http://live.nctv.top/6688/yy.php?id=1354888733
+林正英①,http://live.nctv.top/6688/yy.php?id=1354932444
+林正英②,http://live.nctv.top/6688/yy.php?id=1453996620
+憨豆先生,http://live.nctv.top/6688/yy.php?id=1354930189
+小鬼当家,http://live.nctv.top/6688/yy.php?id=1382745104
+天龙八部（国语版）,http://live.nctv.top/6688/yy.php?id=1382736855
+上海滩,http://live.nctv.top/6688/yy.php?id=1382745184
+洪金宝福星系列,http://live.nctv.top/6688/yy.php?id=1354924839
+野山鹰-影视剧,http://live.nctv.top/6688/yy.php?id=1354932395
+钟馗传说,http://live.nctv.top/6688/yy.php?id=1382736839
+蔡明春晚小品,http://live.nctv.top/6688/yy.php?id=1354936177
+宰相刘罗锅,http://live.nctv.top/6688/yy.php?id=1382745191
+神探狄仁杰2,http://live.nctv.top/6688/yy.php?id=1382828767
+欢乐集结号-每天笑不停,http://live.nctv.top/6688/yy.php?id=1382741642
+鹿鼎记-周星驰版,http://live.nctv.top/6688/yy.php?id=1354658049
+举起手来-惊险抗日,http://live.nctv.top/6688/yy.php?id=1382736877
+花儿开心吧,http://live.nctv.top/6688/yy.php?id=1354930984
+星爷经典-百看不厌,http://live.nctv.top/6688/yy.php?id=1382736808
+火蓝刀锋,http://live.nctv.top/6688/yy.php?id=1382737892
+神探狄仁杰1,http://live.nctv.top/6688/yy.php?id=1354930934
+笑傲江湖,http://live.nctv.top/6688/yy.php?id=1354930909
+康熙王朝,http://live.nctv.top/6688/yy.php?id=1382736818
+你最爱的宋小宝,http://live.nctv.top/6688/yy.php?id=1354936198
+西游记后传,http://live.nctv.top/6688/yy.php?id=1382736846
+寻秦记-穿越剧经典,http://live.nctv.top/6688/yy.php?id=1382749900
+天道-9.2高分好剧,http://live.nctv.top/6688/yy.php?id=1382735574
+父母爱情,http://live.nctv.top/6688/yy.php?id=1354926650
+三国演义94年经典版,http://live.nctv.top/6688/yy.php?id=1354936241
+双月之城-国漫,http://live.nctv.top/6688/yy.php?id=1382736907
+少年包青天第三部,http://live.nctv.top/6688/yy.php?id=1382736814
+单挑荒野第一季,http://live.nctv.top/6688/yy.php?id=1354933535
+欢乐集结号,http://live.nctv.top/6688/yy.php?id=1354931582
+我爱我家,http://live.nctv.top/6688/yy.php?id=1382735557
+易中天品三国,http://live.nctv.top/6688/yy.php?id=1354931498
+炊事班的故事II,http://live.nctv.top/6688/yy.php?id=1382736885
+士兵突击,http://live.nctv.top/6688/yy.php?id=1382828766
+变形金刚,http://live.nctv.top/6688/yy.php?id=1382736803
+澳门风云,http://live.nctv.top/6688/yy.php?id=1459243913
+今夜欢乐颂,http://live.nctv.top/6688/yy.php?id=1382735572
+法证先锋Ⅱ,http://live.nctv.top/6688/yy.php?id=1354888736
+情满四合院,http://live.nctv.top/6688/yy.php?id=1382736848
+魔幻手机,http://live.nctv.top/6688/yy.php?id=1382735544
+情满四合院,http://live.nctv.top/6688/yy.php?id=1382736888
+伪装者,http://live.nctv.top/6688/yy.php?id=1354936244
+热门喜剧,http://live.nctv.top/6688/yy.php?id=1354931495
+欢乐集结号,http://live.nctv.top/6688/yy.php?id=1382735550
+大明王朝,http://live.nctv.top/6688/yy.php?id=1382736879
+法证先锋2,http://live.nctv.top/6688/yy.php?id=1382736870
+开饭了大熊猫,http://live.nctv.top/6688/yy.php?id=1382741641
+炊事班的故事,http://live.nctv.top/6688/yy.php?id=1382749901
+新世界,http://live.nctv.top/6688/yy.php?id=1382736850
+华子系列,http://live.nctv.top/6688/yy.php?id=1354888726
+金婚,http://live.nctv.top/6688/yy.php?id=1382736832
+超炫科幻大片,http://live.nctv.top/6688/yy.php?id=1382736840
+灌篮高手,http://live.nctv.top/6688/yy.php?id=1382735626
+成龙系列,http://live.nctv.top/6688/yy.php?id=1354888751
+欢乐集结号3,http://live.nctv.top/6688/yy.php?id=1382736822
+无敌县令,http://live.nctv.top/6688/yy.php?id=1354932390
+小敏,http://live.nctv.top/6688/yy.php?id=1382736890
+笑傲帮,http://live.nctv.top/6688/yy.php?id=1382735555
+平凡岁月,http://live.nctv.top/6688/yy.php?id=1382745117
+黑冰,http://live.nctv.top/6688/yy.php?id=1354932427
+国内战争大片合集,http://live.nctv.top/6688/yy.php?id=1382749950
+粟裕大将-影视,http://live.nctv.top/6688/yy.php?id=1354926542
+天下第一,http://live.nctv.top/6688/yy.php?id=1382736838
+洪大哥系列,http://live.nctv.top/6688/yy.php?id=1354888743
+漫威超级英雄系列,http://live.nctv.top/6688/yy.php?id=1354932402
+传奇英雄,http://live.nctv.top/6688/yy.php?id=1382735578
+妖神记,http://live.nctv.top/6688/yy.php?id=1382745171
+中国味道 第4季-美食纪录片,http://live.nctv.top/6688/yy.php?id=1382736845
+百家讲坛――之明太祖朱元璋,http://live.nctv.top/6688/yy.php?id=1354936149
+热血动作片合集,http://live.nctv.top/6688/yy.php?id=1382735627
+香港动作大片,http://live.nctv.top/6688/yy.php?id=1382736816
+新主播，求照顾,http://live.nctv.top/6688/yy.php?id=1382690406
+尽享国内精彩战争片,http://live.nctv.top/6688/yy.php?id=1382745094
+X战警系列电影,http://live.nctv.top/6688/yy.php?id=1382736893
+河山,http://live.nctv.top/6688/yy.php?id=1382749952
+忠烈杨家将,http://live.nctv.top/6688/yy.php?id=1382749909
+天龙八部,http://live.nctv.top/6688/yy.php?id=1382749944
+仙剑奇侠传-神仙姐姐驾到,http://live.nctv.top/6688/yy.php?id=1382749903
+十大经典港剧之《大时代》,http://live.nctv.top/6688/yy.php?id=1354930891
+熊出没之探险日记S1-国漫,http://live.nctv.top/6688/yy.php?id=1354930977
+探秘中华美食,http://live.nctv.top/6688/yy.php?id=1354930954
+高分动作大片-热血出击,http://live.nctv.top/6688/yy.php?id=1382736909
+聊斋志异S1,http://live.nctv.top/6688/yy.php?id=1382736975
+法证先锋Ⅲ,http://live.nctv.top/6688/yy.php?id=1382736802
+农家小菜,http://live.nctv.top/6688/yy.php?id=1382736894
+国内动作大片,http://live.nctv.top/6688/yy.php?id=1382749917
+飞虎之潜行极战,http://live.nctv.top/6688/yy.php?id=1354932420
+超级英雄系列电影,http://live.nctv.top/6688/yy.php?id=1382736863
+末日系列-外国电影合集,http://live.nctv.top/6688/yy.php?id=1354889019
+大汉贤后卫子夫,http://live.nctv.top/6688/yy.php?id=1382735569
+风靡全球的谍战片,http://live.nctv.top/6688/yy.php?id=1382736817
+珍珠港-电影,http://live.nctv.top/6688/yy.php?id=1354936234
+科幻大片,http://live.nctv.top/6688/yy.php?id=1382745181
+生逢灿烂的日子,http://live.nctv.top/6688/yy.php?id=1382745085
+妖神记之黑狱篇,http://live.nctv.top/6688/yy.php?id=1382745173
+超燃动作大片,http://live.nctv.top/6688/yy.php?id=1382749940
+战火中的故事,http://live.nctv.top/6688/yy.php?id=1382735625
+小戏骨黄飞鸿,http://live.nctv.top/6688/yy.php?id=1354936181
+请回答1988,http://live.nctv.top/6688/yy.php?id=1354932362
+9.8分！这部纪录片封神了,http://live.nctv.top/6688/yy.php?id=1382736825
+叛逆者,http://live.nctv.top/6688/yy.php?id=1382736868
+萌鸡小队S1-国漫,http://live.nctv.top/6688/yy.php?id=1382736904
+特种兵归来-国产电影,http://live.nctv.top/6688/yy.php?id=1382735581
+国外高分大片,http://live.nctv.top/6688/yy.php?id=1382736867
+第8号当铺,http://live.nctv.top/6688/yy.php?id=1382736905
+本山快乐营,http://live.nctv.top/6688/yy.php?id=1354933529
+小米粒Mili,http://live.nctv.top/6688/yy.php?id=1382736842
+老广的味道 第3季-美食纪录片,http://live.nctv.top/6688/yy.php?id=1382735565
+我的父亲我的兵,http://live.nctv.top/6688/yy.php?id=1353413714
+大唐双龙传,http://live.nctv.top/6688/yy.php?id=1354930979
+漫画解说,http://live.nctv.top/6688/yy.php?id=1382735568
+战争大片,http://live.nctv.top/6688/yy.php?id=1382736798
+名媛望族-精彩港剧,http://live.nctv.top/6688/yy.php?id=1354932431
+大汉天子S2,http://live.nctv.top/6688/yy.php?id=1382736807
+来看修牛蹄,http://live.nctv.top/6688/yy.php?id=1382749887
+国内科幻片来袭,http://live.nctv.top/6688/yy.php?id=1354930821
+动作大片,http://live.nctv.top/6688/yy.php?id=1354930887
+苦乐村官,http://live.nctv.top/6688/yy.php?id=1382736864
+金装四大才子,http://live.nctv.top/6688/yy.php?id=1354926600
+心理追凶-港剧,http://live.nctv.top/6688/yy.php?id=1354936207
+非诚勿扰,http://live.nctv.top/6688/yy.php?id=1382745100
+白夜追凶第一季,http://live.nctv.top/6688/yy.php?id=1354932359
+地球上的地狱,http://live.nctv.top/6688/yy.php?id=1382736918
+寻味顺德-美食纪录片,http://live.nctv.top/6688/yy.php?id=1382736844
+岳云鹏宋小宝也来演电影了？,http://live.nctv.top/6688/yy.php?id=1354926612
+赶海新发现-海洋里有什么,http://live.nctv.top/6688/yy.php?id=1382749912
+经典二战,http://live.nctv.top/6688/yy.php?id=1354936238
+解放：苏联战争巨片,http://live.nctv.top/6688/yy.php?id=1354936249
+大汉天子S3,http://live.nctv.top/6688/yy.php?id=1382736810
 
 
 🇨🇳埋堆堆（港剧）,#genre#
@@ -1291,43 +1300,43 @@ X战警系列电影,http://live.nctv.top/5678/yy.php?id=1382736893
 
 
 
-埋堆堆01,http://live.nctv.top/5678/huya.php?id=23749096
-埋堆堆02,http://live.nctv.top/5678/huya.php?id=23735126
-埋堆堆03,http://live.nctv.top/5678/huya.php?id=23740156
-埋堆堆04,http://live.nctv.top/5678/huya.php?id=23728660
-埋堆堆05,http://live.nctv.top/5678/huya.php?id=23865080
-埋堆堆06,http://live.nctv.top/5678/huya.php?id=23863804
-埋堆堆07,http://live.nctv.top/5678/huya.php?id=23864973
-埋堆堆08,http://live.nctv.top/5678/huya.php?id=23734169
-埋堆堆09,http://live.nctv.top/5678/huya.php?id=23865171
-埋堆堆10,http://live.nctv.top/5678/huya.php?id=23903130
-埋堆堆11,http://live.nctv.top/5678/huya.php?id=23860039
-埋堆堆12,http://live.nctv.top/5678/huya.php?id=23865142
-埋堆堆13,http://live.nctv.top/5678/huya.php?id=23903123
-埋堆堆14,http://live.nctv.top/5678/huya.php?id=23734183
-埋堆堆15,http://live.nctv.top/5678/huya.php?id=23734256
-埋堆堆16,http://live.nctv.top/5678/huya.php?id=23903183
-埋堆堆17,http://live.nctv.top/5678/huya.php?id=23903196
-埋堆堆18,http://live.nctv.top/5678/huya.php?id=23829543
-埋堆堆19,http://live.nctv.top/5678/huya.php?id=23728674
-埋堆堆20,http://live.nctv.top/5678/huya.php?id=23865036
-埋堆堆21,http://live.nctv.top/5678/huya.php?id=23749083
-埋堆堆22,http://live.nctv.top/5678/huya.php?id=23865164
-埋堆堆23,http://live.nctv.top/5678/huya.php?id=23863818
-埋堆堆24,http://live.nctv.top/5678/huya.php?id=23865058
-埋堆堆25,http://live.nctv.top/5678/huya.php?id=23860049
-埋堆堆26,http://live.nctv.top/5678/huya.php?id=23734246
-埋堆堆27,http://live.nctv.top/5678/huya.php?id=23865161
-埋堆堆28,http://live.nctv.top/5678/huya.php?id=23746486
-埋堆堆29,http://live.nctv.top/5678/huya.php?id=23829447
-埋堆堆30,http://live.nctv.top/5678/huya.php?id=23863778
-埋堆堆31,http://live.nctv.top/5678/huya.php?id=23734176
-埋堆堆32,http://live.nctv.top/5678/huya.php?id=23863796
-埋堆堆33,http://live.nctv.top/5678/huya.php?id=23734211
-埋堆堆34,http://live.nctv.top/5678/huya.php?id=23865179
-埋堆堆35,http://live.nctv.top/5678/huya.php?id=23749068
-埋堆堆36,http://live.nctv.top/5678/huya.php?id=23863787
-埋堆堆37,http://live.nctv.top/5678/huya.php?id=23824164
+埋堆堆01,http://live.nctv.top/6688/huya.php?id=23749096
+埋堆堆02,http://live.nctv.top/6688/huya.php?id=23735126
+埋堆堆03,http://live.nctv.top/6688/huya.php?id=23740156
+埋堆堆04,http://live.nctv.top/6688/huya.php?id=23728660
+埋堆堆05,http://live.nctv.top/6688/huya.php?id=23865080
+埋堆堆06,http://live.nctv.top/6688/huya.php?id=23863804
+埋堆堆07,http://live.nctv.top/6688/huya.php?id=23864973
+埋堆堆08,http://live.nctv.top/6688/huya.php?id=23734169
+埋堆堆09,http://live.nctv.top/6688/huya.php?id=23865171
+埋堆堆10,http://live.nctv.top/6688/huya.php?id=23903130
+埋堆堆11,http://live.nctv.top/6688/huya.php?id=23860039
+埋堆堆12,http://live.nctv.top/6688/huya.php?id=23865142
+埋堆堆13,http://live.nctv.top/6688/huya.php?id=23903123
+埋堆堆14,http://live.nctv.top/6688/huya.php?id=23734183
+埋堆堆15,http://live.nctv.top/6688/huya.php?id=23734256
+埋堆堆16,http://live.nctv.top/6688/huya.php?id=23903183
+埋堆堆17,http://live.nctv.top/6688/huya.php?id=23903196
+埋堆堆18,http://live.nctv.top/6688/huya.php?id=23829543
+埋堆堆19,http://live.nctv.top/6688/huya.php?id=23728674
+埋堆堆20,http://live.nctv.top/6688/huya.php?id=23865036
+埋堆堆21,http://live.nctv.top/6688/huya.php?id=23749083
+埋堆堆22,http://live.nctv.top/6688/huya.php?id=23865164
+埋堆堆23,http://live.nctv.top/6688/huya.php?id=23863818
+埋堆堆24,http://live.nctv.top/6688/huya.php?id=23865058
+埋堆堆25,http://live.nctv.top/6688/huya.php?id=23860049
+埋堆堆26,http://live.nctv.top/6688/huya.php?id=23734246
+埋堆堆27,http://live.nctv.top/6688/huya.php?id=23865161
+埋堆堆28,http://live.nctv.top/6688/huya.php?id=23746486
+埋堆堆29,http://live.nctv.top/6688/huya.php?id=23829447
+埋堆堆30,http://live.nctv.top/6688/huya.php?id=23863778
+埋堆堆31,http://live.nctv.top/6688/huya.php?id=23734176
+埋堆堆32,http://live.nctv.top/6688/huya.php?id=23863796
+埋堆堆33,http://live.nctv.top/6688/huya.php?id=23734211
+埋堆堆34,http://live.nctv.top/6688/huya.php?id=23865179
+埋堆堆35,http://live.nctv.top/6688/huya.php?id=23749068
+埋堆堆36,http://live.nctv.top/6688/huya.php?id=23863787
+埋堆堆37,http://live.nctv.top/6688/huya.php?id=23824164
 
 埋堆堆01,https://www.goodiptv.club/huya/23749096
 埋堆堆02,https://www.goodiptv.club/huya/23735126
