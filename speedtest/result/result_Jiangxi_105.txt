@@ -1,4 +1,4 @@
-630k  gzly.hkychina.com:6002
-547k  gzly.hkychina.com:6001
+546k  gzly.hkychina.com:6002
 545k  gzly.hkychina.com:6003
+512k  gzly.hkychina.com:6001
 0  gzly.hkychina.com:6005
