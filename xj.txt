@@ -1,4 +1,24 @@
 📡  江西频道,#genre#
+江西卫视,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+江西都市,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
+江西经济生活,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
+江西影视旅游,http://58.144.154.93/yun-live.jxtvcn.com.cn/jxtv-jxtv/tv_jxtv4.m3u8
+江西公共农业,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
+江西少儿,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
+江西新闻,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
+江西移动,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
+江西陶瓷,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8
+
+江西卫视,http://live.nctv.top/6688/jxtv1.php?id=jxws
+江西都市,http://live.nctv.top/6688/jxtv1.php?id=jxds
+江西经济生活,http://live.nctv.top/6688/jxtv1.php?id=jxjs
+江西影视旅游,http://live.nctv.top/6688/jxtv1.php?id=jxys
+江西公共农业,http://live.nctv.top/6688/jxtv1.php?id=jxgg
+江西少儿,http://live.nctv.top/6688/jxtv1.php?id=jxse
+江西新闻,http://live.nctv.top/6688/jxtv1.php?id=jxxw
+江西移动,http://live.nctv.top/6688/jxtv1.php?id=jxyd
+陶瓷频道,http://live.nctv.top/6688/jxtv1.php?id=tcpd
+
 江西新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxxw
 江西都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxds
 江西经济生活,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxjjsh
@@ -104,6 +124,19 @@
 优漫卡通,http://live.nctv.top/6688/jstv.php?id=ymkt
 江苏国际,http://live.nctv.top/6688/jstv.php?id=jsgj
 江苏教育,http://live.nctv.top/6688/jstv.php?id=jsjy
+南京新闻,http://live.nctv.top/6688/jstv.php?id=nj1
+无锡新闻,http://live.nctv.top/6688/jstv.php?id=wx1
+徐州新闻,http://live.nctv.top/6688/jstv.php?id=xz1
+常州新闻,http://live.nctv.top/6688/jstv.php?id=cz1
+苏州新闻,http://live.nctv.top/6688/jstv.php?id=sz1
+南通新闻,http://live.nctv.top/6688/jstv.php?id=nt1
+连云港新闻综合,http://live.nctv.top/6688/jstv.php?id=lyg1
+淮安新闻,http://live.nctv.top/6688/jstv.php?id=ha1
+盐城新闻,http://live.nctv.top/6688/jstv.php?id=yc1
+扬州新闻,http://live.nctv.top/6688/jstv.php?id=yz1
+镇江新闻,http://live.nctv.top/6688/jstv.php?id=zj1
+泰州新闻,http://live.nctv.top/6688/jstv.php?id=tz1
+宿迁新闻,http://live.nctv.top/6688/jstv.php?id=sq1
 
 江苏卫视,http://dsm.52nantong.net:8800/udp/239.49.8.138:6000
 江苏新闻,http://dsm.52nantong.net:8800/udp/239.49.8.120:8000
