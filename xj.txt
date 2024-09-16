@@ -225,7 +225,20 @@
 连云港新闻,http://www.rathan.tech:9000/udp/239.49.1.244:6000
 连云港公共,http://www.rathan.tech:9000/udp/239.49.1.244:6000
 
+📡  福建频道,#genre#
 
+东南卫视,http://live.nctv.top/6688/bst0.php?id=dnws
+海峡卫视,http://live.nctv.top/6688/bst0.php?id=hxws
+厦门卫视,http://live.nctv.top/6688/bst0.php?id=xmws
+福建综合,http://live.nctv.top/6688/bestv.php?id=fjzh
+福建新闻,http://live.nctv.top/6688/bestv.php?id=fjxw
+福建电视剧,http://live.nctv.top/6688/bestv.php?id=fjdsj
+福建经济,http://live.nctv.top/6688/bestv.php?id=fjjj
+福建文体,http://live.nctv.top/6688/bestv.php?id=fjwt
+福建少儿,http://live.nctv.top/6688/bestv.php?id=fjse
+福建旅游,http://live.nctv.top/6688/bestv.php?id=fjly
+福建乡村振兴公共,http://live.nctv.top/6688/bestv.php?id=fjgg
+福建教育,http://live.nctv.top/6688/bestv.php?id=fjjy
 
 📡  河南频道,#genre#
 
