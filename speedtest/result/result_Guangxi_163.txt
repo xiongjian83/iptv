@@ -1,2 +1,1 @@
-1080k  202.103.213.16:8888
-930k  www.dsmcloud.top:8888
+920k  www.dsmcloud.top:8888
