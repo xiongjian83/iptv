@@ -1,5 +1,1 @@
-985k  123.113.236.69:8012
-762k  coolcat.synology.me:4022
-721k  sweetown.fun:4000
-586k  123.113.183.117:9000
-353k  123.113.237.160:8888
+771k  coolcat.synology.me:4022
