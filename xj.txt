@@ -85,9 +85,9 @@
 南昌新闻综合,http://live.cooltv.top/tv/nctv.php?id=1
 南昌都市,http://live.cooltv.top/tv/nctv.php?id=2
 南昌资讯,http://live.cooltv.top/tv/nctv.php?id=3
-赣州新闻,http://wb.jxgztv.com/live/gztv1.flv
-赣州公共,http://wb.jxgztv.com/live/gztv2.flv
-赣州教育,http://wb.jxgztv.com/live/gztv3.flv
+赣州新闻,http://wb.jxgztv.com/live/gztv1.m3u8
+赣州公共,http://wb.jxgztv.com/live/gztv2.m3u8
+赣州教育,http://wb.jxgztv.com/live/gztv3.m3u8
 抚州公共,http://tv.live.fgtxnews.com/fztv/gonggong.m3u8 
 抚州综合,http://tv.live.fgtxnews.com/fztv/zonghe.m3u8
 九江一套,http://live.nctv.top/6688/jxtv.php?id=11
@@ -227,9 +227,9 @@
 
 📡  福建频道,#genre#
 
-东南卫视,http://live.nctv.top/6688/bst0.php?id=dnws
-海峡卫视,http://live.nctv.top/6688/bst0.php?id=hxws
-厦门卫视,http://live.nctv.top/6688/bst0.php?id=xmws
+东南卫视,http://live.nctv.top/6688/bestv.php?id=dnws
+海峡卫视,http://live.nctv.top/6688/bestv.php?id=hxws
+厦门卫视,http://live.nctv.top/6688/bestv.php?id=xmws
 福建综合,http://live.nctv.top/6688/bestv.php?id=fjzh
 福建新闻,http://live.nctv.top/6688/bestv.php?id=fjxw
 福建电视剧,http://live.nctv.top/6688/bestv.php?id=fjdsj
@@ -277,24 +277,81 @@
 驻马店新闻综合,http://live.nctv.top/6688/hntv.php?id=zmd1
 济源新闻综合,http://live.nctv.top/6688/hntv.php?id=jy1
 
+🇨🇳咪咕直播,#genre#
+
+咪咕直播-1,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId= 
+咪咕直播-2,http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-3,http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-4,http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-5,http://111.13.111.242/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-6,http://111.13.111.242/000000001000/3000000001000008379/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-7,http://111.13.111.242/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-8,http://111.13.111.242/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-9,http://111.13.111.242/000000001000/3000000001000026778/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-10,http://111.13.111.242/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-11,http://111.13.111.242/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-12,http://111.13.111.242/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-13,http://111.13.111.242/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-14,http://111.13.111.242/000000001000/3000000010000002032/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-15,http://111.13.111.242/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-16,http://111.13.111.242/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-17,http://111.13.111.242/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-18,http://111.13.111.242/000000001000/3000000010000004464/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-19,http://111.13.111.242/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-20,http://111.13.111.242/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-21,http://111.13.111.242/000000001000/3000000010000006658/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-22,http://111.13.111.242/000000001000/3000000010000006944/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-23,http://111.13.111.242/000000001000/3000000010000007692/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-24,http://111.13.111.242/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-25,http://111.13.111.242/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-26,http://111.13.111.242/000000001000/3000000010000011112/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-27,http://111.13.111.242/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-28,http://111.13.111.242/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-29,http://111.13.111.242/000000001000/3000000010000011763/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-30,http://111.13.111.242/000000001000/3000000010000011873/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-31,http://111.13.111.242/000000001000/3000000010000012398/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-32,http://111.13.111.242/000000001000/3000000010000012450/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-33,http://111.13.111.242/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-34,http://111.13.111.242/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-35,http://111.13.111.242/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-36,http://111.13.111.242/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-37,http://111.13.111.242/000000001000/3000000010000017389/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-38,http://111.13.111.242/000000001000/3000000010000017678/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-39,http://111.13.111.242/000000001000/3000000010000017997/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-40,http://111.13.111.242/000000001000/3000000010000019380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-41,http://111.13.111.242/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-42,http://111.13.111.242/000000001000/3000000010000020168/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-43,http://111.13.111.242/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-44,http://111.13.111.242/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-45,http://111.13.111.242/000000001000/3000000010000024205/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-46,http://111.13.111.242/000000001000/3000000010000024691/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-47,http://111.13.111.242/000000001000/3000000010000025380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-48,http://111.13.111.242/000000001000/3000000010000025943/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-49,http://111.13.111.242/000000001000/3000000010000027318/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-50,http://111.13.111.242/000000001000/3000000010000027638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-51,http://111.13.111.242/000000001000/3000000010000027691/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-52,http://111.13.111.242/000000001000/3000000010000031669/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-53,http://111.13.111.242/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+咪咕直播-1-4K,http://111.13.111.242/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+
 🇨🇳虎牙直播,#genre#
 哆啦A梦,http://live.nctv.top/6688/huya.php?id=11601963
 哆啦A梦,https://live.metshop.top/huya/11601963
 哆啦A梦,http://mmitv.top/pltv/huya.php?id=11601963
-哆啦A梦,http://cfss.cc/cdn/hy/11601963.flv
+哆啦A梦,http://cfss.cc/cdn/hy/11601963.m3u8
 
 
 
-王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 王者荣耀,http://159.75.85.63:35455/huya/660002
 王者荣耀,https://live.metshop.top/huya/660002
 王者荣耀,https://yang-1989.eu.org/huya/66000
 王者荣耀,http://mmitv.top/pltv/huya.php?id=660002
 
 
-JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.m3u8?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
-
+雨神,http://cfss.cc/cdn/dyu/6512.m3u8
 雨神,http://159.75.85.63:35455/douyu/6512
 雨神,http://www.52sw.top:678/play/douyu.php?id=6512
 雨神,https://www.goodiptv.club/douyu/6512
@@ -302,6 +359,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 雨神,https://live.metshop.top/douyu/6512
 
 
+雨家张时,http://cfss.cc/cdn/dyu/11435361.m3u8
 雨家张时,http://159.75.85.63:35455/douyu/11435361
 雨家张时,http://www.52sw.top:678/play/douyu.php?id=11435361
 雨家张时,https://live.metshop.top/douyu/11435361
@@ -309,7 +367,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 雨家张时,https://tv.iill.top/douyu/11435361
 
 
-
+麻将靓旭,http://cfss.cc/cdn/dyu/1165924.m3u8
 麻将靓旭,http://159.75.85.63:35455/douyu/1165924
 麻将靓旭,http://www.52sw.top:678/play/douyu.php?id=1165924
 麻将靓旭,https://live.metshop.top/douyu/1165924
@@ -317,67 +375,61 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 麻将靓旭,https://tv.iill.top/douyu/1165924
 
 
-龙弟鲁班,http://159.75.85.63:35455/douyu/58803
-龙弟鲁班,http://www.52sw.top:678/play/douyu.php?id=58803
-龙弟鲁班,http://live.metshop.top/douyu/58803
-龙弟鲁班,https://www.goodiptv.club/douyu/58803
-
-
 周星驰,http://159.75.85.63:35455/huya/11342412
 周星驰,https://live.metshop.top/huya/11342412
-周星驰,http://cfss.cc/cdn/hy/11342412.flv
+周星驰,http://cfss.cc/cdn/hy/11342412.m3u8
 周星驰,https://www.goodiptv.club/huya/11342412
 
 
-
+李连杰,http://cfss.cc/cdn/hy/11342390.m3u8
 李连杰,http://159.75.85.63:35455/huya/11342390
 李连杰,https://live.metshop.top/huya/11342390
 李连杰,https://www.goodiptv.club/huya/11342390
-李连杰,http://cfss.cc/cdn/hy/11342390.flv
+李连杰,http://cfss.cc/cdn/hy/11342390.m3u8
 
 
 
 林正英,http://159.75.85.63:35455/huya/11342421
 林正英,https://live.metshop.top/huya/11342421
 林正英,http://www.goodiptv.club/huya/11342421
-林正英,http://cfss.cc/cdn/hy/11342421.flv
+林正英,http://cfss.cc/cdn/hy/11342421.m3u8
 
 
 成龙,http://159.75.85.63:35455/huya/11342386
 成龙,https://live.metshop.top/huya/11342386
 成龙,http://www.goodiptv.club/huya/11342386
-成龙,http://cfss.cc/cdn/hy/11342386.flv
+成龙,http://cfss.cc/cdn/hy/11342386.m3u8
 
 
 甄子丹,http://159.75.85.63:35455/huya/11352935
 甄子丹,https://live.metshop.top/huya/11352935
 甄子丹,http://www.goodiptv.club/huya/11352935
-甄子丹,http://cfss.cc/cdn/hy/11352935.flv
+甄子丹,http://cfss.cc/cdn/hy/11352935.m3u8
 
 
 刘德华,http://159.75.85.63:35455/huya/11342424
 刘德华,https://live.metshop.top/huya/11342424
 刘德华,http://www.goodiptv.club/huya/11342424
-刘德华,http://cfss.cc/cdn/hy/11342424.flv
+刘德华,http://cfss.cc/cdn/hy/11342424.m3u8
 
 
 周润发,http://159.75.85.63:35455/huya/11342387
 周润发,https://live.metshop.top/huya/11342387
 周润发,http://www.goodiptv.club/huya/11342387
-周润发,http://cfss.cc/cdn/hy/11342387.flv
+周润发,http://cfss.cc/cdn/hy/11342387.m3u8
 
 
 五福星,http://159.75.85.63:35455/huya/11282233
 五福星,https://live.metshop.top/huya/11282233
 五福星,http://www.goodiptv.club/huya/11282233
-五福星,http://cfss.cc/cdn/hy/11282233.flv
+五福星,http://cfss.cc/cdn/hy/11282233.m3u8
 
 
 
 许氏三杰,http://159.75.85.63:35455/huya/11602033
 许氏三杰,https://live.metshop.top/huya/11602033
 许氏三杰,http://www.goodiptv.club/huya/11602033
-许氏三杰,http://cfss.cc/cdn/hy/11602033.flv
+许氏三杰,http://cfss.cc/cdn/hy/11602033.m3u8
 
 
 
@@ -402,15 +454,15 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 杰森斯坦森,https://live.metshop.top/huya/21059588
 
 
-吴孟达,http://cfss.cc/cdn/hy/11336592.flv
-沈腾,http://cfss.cc/cdn/hy/11601968.flv
-洪金宝,http://cfss.cc/cdn/hy/11279251.flv
-梁家辉,http://cfss.cc/cdn/hy/11342429.flv
-徐峥,http://cfss.cc/cdn/hy/11352876.flv
-王晶导演,http://cfss.cc/cdn/hy/11602058.flv
-许冠英,http://cfss.cc/cdn/hy/11601972.flv
-巨石强森,http://cfss.cc/cdn/hy/21059581.flv
-杰森斯坦森,http://cfss.cc/cdn/hy/21059588.flv
+吴孟达,http://cfss.cc/cdn/hy/11336592.m3u8
+沈腾,http://cfss.cc/cdn/hy/11601968.m3u8
+洪金宝,http://cfss.cc/cdn/hy/11279251.m3u8
+梁家辉,http://cfss.cc/cdn/hy/11342429.m3u8
+徐峥,http://cfss.cc/cdn/hy/11352876.m3u8
+王晶导演,http://cfss.cc/cdn/hy/11602058.m3u8
+许冠英,http://cfss.cc/cdn/hy/11601972.m3u8
+巨石强森,http://cfss.cc/cdn/hy/21059581.m3u8
+杰森斯坦森,http://cfss.cc/cdn/hy/21059588.m3u8
 
 吴孟达,http://www.goodiptv.club/huya/11336592
 沈腾,http://www.goodiptv.club/huya/11601968
@@ -422,8 +474,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 巨石强森,http://www.goodiptv.club/huya/21059581
 杰森斯坦森,http://www.goodiptv.club/huya/21059588
 
-
-鹿鼎记,https://live.metshop.top/yy/1382704650
+鹿鼎记,https://live.metshop.top/huya/23865080
 鹿鼎记,https://live.metshop.top/yy/28265277
 鹿鼎记,http://live.nctv.top/6688/yy.php?id=382704650
 鹿鼎记,http://cfss.cc/api/yy/1382704650.m3u8
@@ -442,7 +493,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 宫心计,http://live.nctv.top/6688/yy.php?id=1354933540#http://43.138.170.29:35455/yy/1354933540
 
 康熙王朝,http://live.nctv.top/6688/yy.php?id=1382736818
-康熙王朝,http://cfss.cc/cdn/hy/11352940.flv
+康熙王朝,http://cfss.cc/cdn/hy/11352940.m3u8
 康熙王朝,https://epg.112114.xyz/huya/11352940
 康熙王朝,https://live.metshop.top/yy/1382736818
 
@@ -450,6 +501,132 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 港片赌片,http://cfss.cc/api/yy/1355076627.m3u8
 港片赌片,https://live.metshop.top/yy/1355076627
 
+虎牙-猫和老鼠,http://cfss.cc/cdn/hy/11352879.m3u8
+虎牙-圣斗士星矢,http://cfss.cc/cdn/hy/18632116.m3u8
+虎牙-庆余年,http://cfss.cc/cdn/hy/11352960.m3u8
+虎牙-金庸武侠,http://cfss.cc/cdn/hy/11342427.m3u8
+虎牙-神雕侠侣,http://cfss.cc/cdn/hy/23865171.m3u8
+虎牙-神雕侠侣陈妍希,http://cfss.cc/cdn/hy/11352964.m3u8
+虎牙-射雕英雄传,http://cfss.cc/cdn/hy/23728674.m3u8
+虎牙-倚天屠龙记,http://cfss.cc/cdn/hy/11342403.m3u8
+虎牙-鹿鼎记,http://cfss.cc/cdn/hy/23865080.m3u8
+虎牙-新三国演义,http://cfss.cc/cdn/hy/11352944.m3u8
+虎牙-新水浒传,http://cfss.cc/cdn/hy/11342384.m3u8
+虎牙-三国演义,http://cfss.cc/cdn/hy/11602081.m3u8
+虎牙-TVB西游记,http://cfss.cc/cdn/hy/23735126.m3u8
+虎牙-寻秦记,http://cfss.cc/cdn/hy/23864973.m3u8
+虎牙-天龙八部,http://cfss.cc/cdn/hy/23903123.m3u8
+虎牙-笑傲江湖,http://cfss.cc/cdn/hy/23865142.m3u8
+虎牙-新流星蝴蝶剑,http://cfss.cc/cdn/hy/11342420.m3u8
+虎牙-秦王李世明,http://cfss.cc/cdn/hy/11336572.m3u8
+虎牙-十大奇冤,http://cfss.cc/cdn/hy/11352899.m3u8
+虎牙-金装四大才子,http://cfss.cc/cdn/hy/23903183.m3u8
+虎牙-状王宋世杰,http://cfss.cc/cdn/hy/23734183.m3u8
+虎牙-布衣神相,http://cfss.cc/cdn/hy/23865036.m3u8
+虎牙-封神榜,http://cfss.cc/cdn/hy/23749096.m3u8
+虎牙-宝莲灯,http://cfss.cc/cdn/hy/21059563.m3u8
+虎牙-秀才遇到兵,http://cfss.cc/cdn/hy/23746486.m3u8
+虎牙-将夜,http://cfss.cc/cdn/hy/11352885.m3u8
+虎牙-活佛济公,http://cfss.cc/cdn/hy/11342400.m3u8
+虎牙-快意江湖,http://cfss.cc/cdn/hy/11342435.m3u8
+虎牙-镖行天下,http://cfss.cc/cdn/hy/11352969.m3u8
+虎牙-鬼吹灯,http://cfss.cc/cdn/hy/11352871.m3u8
+虎牙-大秦帝国,http://cfss.cc/cdn/hy/11352881.m3u8
+虎牙-楚汉骄雄,http://cfss.cc/cdn/hy/23740156.m3u8
+虎牙-康熙微服私访记,http://cfss.cc/cdn/hy/11342418.m3u8
+虎牙-铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.m3u8
+虎牙-神医喜来乐,http://cfss.cc/cdn/hy/11601978.m3u8
+虎牙-芈月传,http://cfss.cc/cdn/hy/11352975.m3u8
+虎牙-爱情公寓,http://cfss.cc/cdn/hy/11336726.m3u8
+虎牙-雍正王朝,http://cfss.cc/cdn/hy/11342439.m3u8
+虎牙-神探狄仁杰,http://cfss.cc/cdn/hy/11342425.m3u8
+虎牙-洗冤录,http://cfss.cc/cdn/hy/23903130.m3u8
+虎牙-医馆笑传,http://cfss.cc/cdn/hy/11352891.m3u8
+虎牙-第八号当铺,http://cfss.cc/cdn/hy/21059568.m3u8
+
+
+电影_星爷,http://cfss.cc/cdn/hy/11342412.m3u8
+电影_英叔,http://cfss.cc/cdn/hy/11342421.m3u8
+电影_发哥,http://cfss.cc/cdn/hy/11342387.m3u8
+电影_成龙,http://cfss.cc/cdn/hy/11342386.m3u8
+电影_王晶,http://cfss.cc/cdn/hy/11602058.m3u8
+电影_沈腾,http://cfss.cc/cdn/hy/11601968.m3u8
+电影_黄渤,http://cfss.cc/cdn/hy/11352876.m3u8
+电影_强森,http://cfss.cc/cdn/hy/21059581.m3u8
+电影_漫威,http://cfss.cc/cdn/hy/11602034.m3u8
+电影_宇宙,http://cfss.cc/cdn/hy/11342428.m3u8
+电影_怪兽,http://cfss.cc/cdn/hy/21059577.m3u8
+电影_武侠,http://cfss.cc/cdn/hy/11342427.m3u8
+电影_警匪,http://cfss.cc/cdn/hy/11352886.m3u8
+电影_罪犯,http://cfss.cc/cdn/hy/11352962.m3u8
+电影_枪战,http://cfss.cc/cdn/hy/21059579.m3u8
+电影_海盗,http://cfss.cc/cdn/hy/21059595.m3u8
+电影_赛车,http://cfss.cc/cdn/hy/11279247.m3u8
+电影_推荐,http://cfss.cc/cdn/hy/11602041.m3u8
+电影_救援,http://cfss.cc/cdn/hy/21059594.m3u8
+电影_热血,http://cfss.cc/cdn/hy/11352934.m3u8
+电影_盗墓,http://cfss.cc/cdn/hy/21059552.m3u8
+电影_贺岁,http://cfss.cc/cdn/hy/11601971.m3u8
+电影_玄幻,http://cfss.cc/cdn/hy/11342414.m3u8
+电影_谍战,http://cfss.cc/cdn/hy/21059585.m3u8
+电影_战争,http://cfss.cc/cdn/hy/21059592.m3u8
+电影_喜剧,http://cfss.cc/cdn/hy/11352877.m3u8
+电影_港片,http://cfss.cc/cdn/hy/11602043.m3u8
+电影_国产,http://cfss.cc/cdn/hy/11352973.m3u8
+电影_周星星,http://cfss.cc/cdn/hy/11336587.m3u8
+电影_李连杰,http://cfss.cc/cdn/hy/11342390.m3u8
+电影_洪金宝,http://cfss.cc/cdn/hy/11279251.m3u8
+电影_梁家辉,http://cfss.cc/cdn/hy/11342429.m3u8
+电影_许冠英,http://cfss.cc/cdn/hy/11601972.m3u8
+电影_刘德华,http://cfss.cc/cdn/hy/11342424.m3u8
+电影_斯坦森,http://cfss.cc/cdn/hy/21059588.m3u8
+电影_小鬼头,http://cfss.cc/cdn/hy/11352963.m3u8
+电影_八点档,http://cfss.cc/cdn/hy/880261.m3u8
+电影_蜘蛛侠,http://cfss.cc/cdn/hy/21059599.m3u8
+电影_贺岁片,http://cfss.cc/cdn/hy/11601986.m3u8
+电影_功夫片,http://cfss.cc/cdn/hy/11352941.m3u8
+电影_黑帮片,http://cfss.cc/cdn/hy/11336719.m3u8
+电影_丧尸片,http://cfss.cc/cdn/hy/21059578.m3u8
+电影_灾难片,http://cfss.cc/cdn/hy/11602075.m3u8
+电影_谍战片,http://cfss.cc/cdn/hy/21059587.m3u8
+电影_战争片,http://cfss.cc/cdn/hy/21059574.m3u8
+电影_犯罪片,http://cfss.cc/cdn/hy/11352974.m3u8
+电影_古装片,http://cfss.cc/cdn/hy/11336590.m3u8
+电影_高分动作,http://cfss.cc/cdn/hy/11352884.m3u8
+电影_动作电影,http://cfss.cc/cdn/hy/11602077.m3u8
+电影_搞笑喜剧,http://cfss.cc/cdn/hy/11342423.m3u8
+电影_喜剧专场,http://cfss.cc/cdn/hy/11602044.m3u8
+电影_欢笑影院,http://cfss.cc/cdn/hy/11352894.m3u8
+电影_不挤影院,http://cfss.cc/cdn/hy/11352897.m3u8
+电影_国产悬疑,http://cfss.cc/cdn/hy/11342395.m3u8
+电影_快意江湖,http://cfss.cc/cdn/hy/11342435.m3u8
+电影_黑帮斗争,http://cfss.cc/cdn/hy/11342419.m3u8
+电影_古墓系列,http://cfss.cc/cdn/hy/11352913.m3u8
+电影_嫣然影厅,http://cfss.cc/cdn/hy/11601977.m3u8
+电影_女神系列,http://cfss.cc/cdn/hy/11336571.m3u8
+电影_经典女神,http://cfss.cc/cdn/hy/11352909.m3u8
+电影_许氏三杰,http://cfss.cc/cdn/hy/11602033.m3u8
+电影_经典港片,http://cfss.cc/cdn/hy/11352965.m3u8
+电影_镖行天下,http://cfss.cc/cdn/hy/11352969.m3u8
+电影_高能反转,http://cfss.cc/cdn/hy/11352887.m3u8
+电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.m3u8
+电影_蘑菇影厅,http://cfss.cc/cdn/hy/11601981.m3u8
+电影_搞笑恐怖,http://cfss.cc/cdn/hy/11601960.m3u8
+电影_死神来了,http://cfss.cc/cdn/hy/11352903.m3u8
+电影_变形金刚,http://cfss.cc/cdn/hy/21059596.m3u8
+电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.m3u8
+剧集_老三国,http://cfss.cc/cdn/hy/11602081.m3u8
+剧集_新三国,http://cfss.cc/cdn/hy/11352944.m3u8
+剧集_新水浒,http://cfss.cc/cdn/hy/11342384.m3u8
+剧集_纪晓岚,http://cfss.cc/cdn/hy/11342396.m3u8
+剧集_庆余年,http://cfss.cc/cdn/hy/11352960.m3u8
+剧集_雍正王朝,http://cfss.cc/cdn/hy/11342439.m3u8
+剧集_士兵突击,http://cfss.cc/cdn/hy/11342430.m3u8
+剧集_爱情公寓,http://cfss.cc/cdn/hy/11336726.m3u8
+剧集_家有儿女,http://cfss.cc/cdn/hy/11352872.m3u8
+剧集_武林外传,http://cfss.cc/cdn/hy/21059598.m3u8
+剧集_地下交通站,http://cfss.cc/cdn/hy/11342433.m3u8
+剧集_邻里一家亲,http://cfss.cc/cdn/hy/11342426.m3u8
 
 虎牙-猫和老鼠,https://live.metshop.top/huya/11352879
 虎牙-圣斗士星矢,https://live.metshop.top/huya/18632116
@@ -621,134 +798,155 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 剧集_邻里一家亲,https://live.metshop.top/huya/11342426
 
 
-虎牙-猫和老鼠,http://cfss.cc/cdn/hy/11352879.flv
-虎牙-圣斗士星矢,http://cfss.cc/cdn/hy/18632116.flv
-虎牙-庆余年,http://cfss.cc/cdn/hy/11352960.flv
-虎牙-金庸武侠,http://cfss.cc/cdn/hy/11342427.flv
-虎牙-神雕侠侣,http://cfss.cc/cdn/hy/23865171.flv
-虎牙-神雕侠侣陈妍希,http://cfss.cc/cdn/hy/11352964.flv
-虎牙-射雕英雄传,http://cfss.cc/cdn/hy/23728674.flv
-虎牙-倚天屠龙记,http://cfss.cc/cdn/hy/11342403.flv
-虎牙-鹿鼎记,http://cfss.cc/cdn/hy/23865080.flv
-虎牙-新三国演义,http://cfss.cc/cdn/hy/11352944.flv
-虎牙-新水浒传,http://cfss.cc/cdn/hy/11342384.flv
-虎牙-三国演义,http://cfss.cc/cdn/hy/11602081.flv
-虎牙-TVB西游记,http://cfss.cc/cdn/hy/23735126.flv
-虎牙-寻秦记,http://cfss.cc/cdn/hy/23864973.flv
-虎牙-天龙八部,http://cfss.cc/cdn/hy/23903123.flv
-虎牙-笑傲江湖,http://cfss.cc/cdn/hy/23865142.flv
-虎牙-新流星蝴蝶剑,http://cfss.cc/cdn/hy/11342420.flv
-虎牙-秦王李世明,http://cfss.cc/cdn/hy/11336572.flv
-虎牙-十大奇冤,http://cfss.cc/cdn/hy/11352899.flv
-虎牙-金装四大才子,http://cfss.cc/cdn/hy/23903183.flv
-虎牙-状王宋世杰,http://cfss.cc/cdn/hy/23734183.flv
-虎牙-布衣神相,http://cfss.cc/cdn/hy/23865036.flv
-虎牙-封神榜,http://cfss.cc/cdn/hy/23749096.flv
-虎牙-宝莲灯,http://cfss.cc/cdn/hy/21059563.flv
-虎牙-秀才遇到兵,http://cfss.cc/cdn/hy/23746486.flv
-虎牙-将夜,http://cfss.cc/cdn/hy/11352885.flv
-虎牙-活佛济公,http://cfss.cc/cdn/hy/11342400.flv
-虎牙-快意江湖,http://cfss.cc/cdn/hy/11342435.flv
-虎牙-镖行天下,http://cfss.cc/cdn/hy/11352969.flv
-虎牙-鬼吹灯,http://cfss.cc/cdn/hy/11352871.flv
-虎牙-大秦帝国,http://cfss.cc/cdn/hy/11352881.flv
-虎牙-楚汉骄雄,http://cfss.cc/cdn/hy/23740156.flv
-虎牙-康熙微服私访记,http://cfss.cc/cdn/hy/11342418.flv
-虎牙-铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
-虎牙-神医喜来乐,http://cfss.cc/cdn/hy/11601978.flv
-虎牙-芈月传,http://cfss.cc/cdn/hy/11352975.flv
-虎牙-爱情公寓,http://cfss.cc/cdn/hy/11336726.flv
-虎牙-雍正王朝,http://cfss.cc/cdn/hy/11342439.flv
-虎牙-神探狄仁杰,http://cfss.cc/cdn/hy/11342425.flv
-虎牙-洗冤录,http://cfss.cc/cdn/hy/23903130.flv
-虎牙-医馆笑传,http://cfss.cc/cdn/hy/11352891.flv
-虎牙-第八号当铺,http://cfss.cc/cdn/hy/21059568.flv
-
-
-电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
-电影_英叔,http://cfss.cc/cdn/hy/11342421.flv
-电影_发哥,http://cfss.cc/cdn/hy/11342387.flv
-电影_成龙,http://cfss.cc/cdn/hy/11342386.flv
-电影_王晶,http://cfss.cc/cdn/hy/11602058.flv
-电影_沈腾,http://cfss.cc/cdn/hy/11601968.flv
-电影_黄渤,http://cfss.cc/cdn/hy/11352876.flv
-电影_强森,http://cfss.cc/cdn/hy/21059581.flv
-电影_漫威,http://cfss.cc/cdn/hy/11602034.flv
-电影_宇宙,http://cfss.cc/cdn/hy/11342428.flv
-电影_怪兽,http://cfss.cc/cdn/hy/21059577.flv
-电影_武侠,http://cfss.cc/cdn/hy/11342427.flv
-电影_警匪,http://cfss.cc/cdn/hy/11352886.flv
-电影_罪犯,http://cfss.cc/cdn/hy/11352962.flv
-电影_枪战,http://cfss.cc/cdn/hy/21059579.flv
-电影_海盗,http://cfss.cc/cdn/hy/21059595.flv
-电影_赛车,http://cfss.cc/cdn/hy/11279247.flv
-电影_推荐,http://cfss.cc/cdn/hy/11602041.flv
-电影_救援,http://cfss.cc/cdn/hy/21059594.flv
-电影_热血,http://cfss.cc/cdn/hy/11352934.flv
-电影_盗墓,http://cfss.cc/cdn/hy/21059552.flv
-电影_贺岁,http://cfss.cc/cdn/hy/11601971.flv
-电影_玄幻,http://cfss.cc/cdn/hy/11342414.flv
-电影_谍战,http://cfss.cc/cdn/hy/21059585.flv
-电影_战争,http://cfss.cc/cdn/hy/21059592.flv
-电影_喜剧,http://cfss.cc/cdn/hy/11352877.flv
-电影_港片,http://cfss.cc/cdn/hy/11602043.flv
-电影_国产,http://cfss.cc/cdn/hy/11352973.flv
-电影_周星星,http://cfss.cc/cdn/hy/11336587.flv
-电影_李连杰,http://cfss.cc/cdn/hy/11342390.flv
-电影_洪金宝,http://cfss.cc/cdn/hy/11279251.flv
-电影_梁家辉,http://cfss.cc/cdn/hy/11342429.flv
-电影_许冠英,http://cfss.cc/cdn/hy/11601972.flv
-电影_刘德华,http://cfss.cc/cdn/hy/11342424.flv
-电影_斯坦森,http://cfss.cc/cdn/hy/21059588.flv
-电影_小鬼头,http://cfss.cc/cdn/hy/11352963.flv
-电影_八点档,http://cfss.cc/cdn/hy/880261.flv
-电影_蜘蛛侠,http://cfss.cc/cdn/hy/21059599.flv
-电影_贺岁片,http://cfss.cc/cdn/hy/11601986.flv
-电影_功夫片,http://cfss.cc/cdn/hy/11352941.flv
-电影_黑帮片,http://cfss.cc/cdn/hy/11336719.flv
-电影_丧尸片,http://cfss.cc/cdn/hy/21059578.flv
-电影_灾难片,http://cfss.cc/cdn/hy/11602075.flv
-电影_谍战片,http://cfss.cc/cdn/hy/21059587.flv
-电影_战争片,http://cfss.cc/cdn/hy/21059574.flv
-电影_犯罪片,http://cfss.cc/cdn/hy/11352974.flv
-电影_古装片,http://cfss.cc/cdn/hy/11336590.flv
-电影_高分动作,http://cfss.cc/cdn/hy/11352884.flv
-电影_动作电影,http://cfss.cc/cdn/hy/11602077.flv
-电影_搞笑喜剧,http://cfss.cc/cdn/hy/11342423.flv
-电影_喜剧专场,http://cfss.cc/cdn/hy/11602044.flv
-电影_欢笑影院,http://cfss.cc/cdn/hy/11352894.flv
-电影_不挤影院,http://cfss.cc/cdn/hy/11352897.flv
-电影_国产悬疑,http://cfss.cc/cdn/hy/11342395.flv
-电影_快意江湖,http://cfss.cc/cdn/hy/11342435.flv
-电影_黑帮斗争,http://cfss.cc/cdn/hy/11342419.flv
-电影_古墓系列,http://cfss.cc/cdn/hy/11352913.flv
-电影_嫣然影厅,http://cfss.cc/cdn/hy/11601977.flv
-电影_女神系列,http://cfss.cc/cdn/hy/11336571.flv
-电影_经典女神,http://cfss.cc/cdn/hy/11352909.flv
-电影_许氏三杰,http://cfss.cc/cdn/hy/11602033.flv
-电影_经典港片,http://cfss.cc/cdn/hy/11352965.flv
-电影_镖行天下,http://cfss.cc/cdn/hy/11352969.flv
-电影_高能反转,http://cfss.cc/cdn/hy/11352887.flv
-电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.flv
-电影_蘑菇影厅,http://cfss.cc/cdn/hy/11601981.flv
-电影_搞笑恐怖,http://cfss.cc/cdn/hy/11601960.flv
-电影_死神来了,http://cfss.cc/cdn/hy/11352903.flv
-电影_变形金刚,http://cfss.cc/cdn/hy/21059596.flv
-电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
-剧集_老三国,http://cfss.cc/cdn/hy/11602081.flv
-剧集_新三国,http://cfss.cc/cdn/hy/11352944.flv
-剧集_新水浒,http://cfss.cc/cdn/hy/11342384.flv
-剧集_纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
-剧集_庆余年,http://cfss.cc/cdn/hy/11352960.flv
-剧集_雍正王朝,http://cfss.cc/cdn/hy/11342439.flv
-剧集_士兵突击,http://cfss.cc/cdn/hy/11342430.flv
-剧集_爱情公寓,http://cfss.cc/cdn/hy/11336726.flv
-剧集_家有儿女,http://cfss.cc/cdn/hy/11352872.flv
-剧集_武林外传,http://cfss.cc/cdn/hy/21059598.flv
-剧集_地下交通站,http://cfss.cc/cdn/hy/11342433.flv
-剧集_邻里一家亲,http://cfss.cc/cdn/hy/11342426.flv
-
 🇨🇳斗鱼直播,#genre#
+斗鱼电影4K,http://cfss.cc/cdn/dyu/9249162.m3u8
+斗鱼电影HD1,http://cfss.cc/cdn/dyu/4246519.m3u8
+斗鱼电影HD2,http://cfss.cc/cdn/dyu/10240553.m3u8
+斗鱼电影HD3,http://cfss.cc/cdn/dyu/122402.m3u8
+斗鱼电影HD4,http://cfss.cc/cdn/dyu/85894.m3u8
+斗鱼电影HD5,http://cfss.cc/cdn/dyu/263824.m3u8
+斗鱼电影HD6,http://cfss.cc/cdn/dyu/747764.m3u8
+斗鱼电影HD7,http://cfss.cc/cdn/dyu/20415.m3u8
+斗鱼电影HD8,http://cfss.cc/cdn/dyu/8663752.m3u8
+斗鱼电影HD9,http://cfss.cc/cdn/dyu/323876.m3u8
+斗鱼电影HD10,http://cfss.cc/cdn/dyu/6140589.m3u8
+斗鱼电影HD11,http://cfss.cc/cdn/dyu/8770422.m3u8
+斗鱼电影HD12,http://cfss.cc/cdn/dyu/2436390.m3u8
+斗鱼电影HD13,http://cfss.cc/cdn/dyu/218859.m3u8
+斗鱼电影HD14,http://cfss.cc/cdn/dyu/36337.m3u8
+斗鱼电影HD15,http://cfss.cc/cdn/dyu/413573.m3u8
+斗鱼电影HD16,http://cfss.cc/cdn/dyu/1504768.m3u8
+斗鱼电影HD17,http://cfss.cc/cdn/dyu/3637726.m3u8
+斗鱼电影HD18,http://cfss.cc/cdn/dyu/9292492.m3u8
+斗鱼电影HD19,http://cfss.cc/cdn/dyu/363776597.m3u8
+斗鱼电影HD20,http://cfss.cc/cdn/dyu/10395991.m3u8
+斗鱼电影HD21,http://cfss.cc/cdn/dyu/10395986.m3u8
+斗鱼电影HD22,http://cfss.cc/cdn/dyu/252802.m3u8
+斗鱼电影HD24,http://cfss.cc/cdn/dyu/315131.m3u8
+斗鱼电影HD25,http://cfss.cc/cdn/dyu/8945323.m3u8
+斗鱼电影HD26,http://cfss.cc/cdn/dyu/2516864.m3u8
+斗鱼电影HD27,http://cfss.cc/cdn/dyu/248753.m3u8
+斗鱼电影HD28,http://cfss.cc/cdn/dyu/4332.m3u8
+斗鱼电影HD29,http://cfss.cc/cdn/dyu/9651304.m3u8
+斗鱼电影HD30,http://cfss.cc/cdn/dyu/9650887.m3u8
+斗鱼电影HD31,http://cfss.cc/cdn/dyu/8814650.m3u8
+斗鱼电影HD32,http://cfss.cc/cdn/dyu/10240510.m3u8
+斗鱼电影HD34,http://cfss.cc/cdn/dyu/8985415.m3u8
+斗鱼电影HD35,http://cfss.cc/cdn/dyu/1165374.m3u8
+斗鱼电影HD36,http://cfss.cc/cdn/dyu/1735337.m3u8
+斗鱼电影HD37,http://cfss.cc/cdn/dyu/6537888.m3u8
+斗鱼电影HD38,http://cfss.cc/cdn/dyu/6003761.m3u8
+斗鱼电影HD39,http://cfss.cc/cdn/dyu/9683979.m3u8
+斗鱼电影HD40,http://cfss.cc/cdn/dyu/1226741.m3u8
+斗鱼电影HD41,http://cfss.cc/cdn/dyu/59612.m3u8
+斗鱼电影HD42,http://cfss.cc/cdn/dyu/925724.m3u8
+斗鱼电视剧HD1,http://cfss.cc/cdn/dyu/2838296.m3u8
+斗鱼电视剧HD2,http://cfss.cc/cdn/dyu/7701735.m3u8
+斗鱼电视剧HD3,http://cfss.cc/cdn/dyu/7517784.m3u8
+斗鱼电视剧HD4,http://cfss.cc/cdn/dyu/7489563.m3u8
+斗鱼电视剧HD5,http://cfss.cc/cdn/dyu/65858.m3u8
+斗鱼电视剧HD6,http://cfss.cc/cdn/dyu/431460.m3u8
+斗鱼电视剧HD7,http://cfss.cc/cdn/dyu/8600645.m3u8
+斗鱼电视剧HD8,http://cfss.cc/cdn/dyu/7575350.m3u8
+斗鱼电视剧HD10,http://cfss.cc/cdn/dyu/7644931.m3u8
+斗鱼电视剧HD11,http://cfss.cc/cdn/dyu/9650860.m3u8
+斗鱼电视剧HD12,http://cfss.cc/cdn/dyu/9435180.m3u8
+斗鱼电视剧HD13,http://cfss.cc/cdn/dyu/3756989.m3u8
+斗鱼电视剧HD14,http://cfss.cc/cdn/dyu/6706214.m3u8
+斗鱼电视剧HD15,http://cfss.cc/cdn/dyu/6478650.m3u8
+斗鱼电视剧1,http://cfss.cc/cdn/dyu/299854.m3u8
+斗鱼电视剧2,http://cfss.cc/cdn/dyu/6899895.m3u8
+斗鱼电视剧3,http://cfss.cc/cdn/dyu/276200.m3u8
+斗鱼电视剧4,http://cfss.cc/cdn/dyu/4290711.m3u8
+斗鱼电视剧5,http://cfss.cc/cdn/dyu/6648727.m3u8
+斗鱼电视剧6,http://cfss.cc/cdn/dyu/7314294.m3u8
+斗鱼电视剧7,http://cfss.cc/cdn/dyu/9638983.m3u8
+斗鱼电视剧8,http://cfss.cc/cdn/dyu/5261342.m3u8
+斗鱼电视剧9,http://cfss.cc/cdn/dyu/5522351.m3u8
+斗鱼电视剧10,http://cfss.cc/cdn/dyu/9639508.m3u8
+斗鱼电视剧11,http://cfss.cc/cdn/dyu/2083382.m3u8
+斗鱼电视剧12,http://cfss.cc/cdn/dyu/4373285.m3u8
+斗鱼电视剧13,http://cfss.cc/cdn/dyu/3439096.m3u8
+斗鱼电视剧14,http://cfss.cc/cdn/dyu/4549169.m3u8
+斗鱼电视剧15,http://cfss.cc/cdn/dyu/7254536.m3u8
+斗鱼电视剧16,http://cfss.cc/cdn/dyu/39289.m3u8
+斗鱼电视剧17,http://cfss.cc/cdn/dyu/7270927.m3u8
+斗鱼电视剧18,http://cfss.cc/cdn/dyu/7116591.m3u8
+斗鱼电视剧19,http://cfss.cc/cdn/dyu/7459925.m3u8
+斗鱼电视剧20,http://cfss.cc/cdn/dyu/674441.m3u8
+斗鱼电视剧21,http://cfss.cc/cdn/dyu/9518204.m3u8
+斗鱼电视剧22,http://cfss.cc/cdn/dyu/10297898.m3u8
+斗鱼电视剧23,http://cfss.cc/cdn/dyu/8901218.m3u8
+斗鱼电视剧24,http://cfss.cc/cdn/dyu/7292330.m3u8
+斗鱼电视剧25,http://cfss.cc/cdn/dyu/7623292.m3u8
+斗鱼电视剧26,http://cfss.cc/cdn/dyu/7356023.m3u8
+斗鱼电视剧27,http://cfss.cc/cdn/dyu/10068957.m3u8
+斗鱼电视剧28,http://cfss.cc/cdn/dyu/308752.m3u8
+斗鱼电视剧29,http://cfss.cc/cdn/dyu/3758762.m3u8
+
+周星驰,http://cfss.cc/cdn/dyu/122402.m3u8
+刘德华,http://cfss.cc/cdn/dyu/2516864.m3u8
+好先生,http://cfss.cc/cdn/dyu/9650792.m3u8
+庆余年,http://cfss.cc/cdn/dyu/5908256.m3u8
+欢乐综艺,http://cfss.cc/cdn/dyu/131977.m3u8
+万合出品,http://cfss.cc/cdn/dyu/9220456.m3u8
+邵氏影院,http://cfss.cc/cdn/dyu/4246519.m3u8
+吃米滴虫,http://cfss.cc/cdn/dyu/315457.m3u8
+高分电影,http://cfss.cc/cdn/dyu/7254536.m3u8
+豆瓣高分,http://cfss.cc/cdn/dyu/8770422.m3u8
+漫威影院,http://cfss.cc/cdn/dyu/6140589.m3u8
+特辑电影,http://cfss.cc/cdn/dyu/3637778.m3u8
+粤语电影,http://cfss.cc/cdn/dyu/1226741.m3u8
+国产电影,http://cfss.cc/cdn/dyu/5423.m3u8
+精彩电影,http://cfss.cc/cdn/dyu/9650887.m3u8
+喜剧电影,http://cfss.cc/cdn/dyu/323876.m3u8
+动作电影,http://cfss.cc/cdn/dyu/6763930.m3u8
+恐怖电影,http://cfss.cc/cdn/dyu/218859.m3u8
+恐怖鬼怪,http://cfss.cc/cdn/dyu/1165374.m3u8
+童年阴影,http://cfss.cc/cdn/dyu/2935323.m3u8
+惊悚电影,http://cfss.cc/cdn/dyu/96577.m3u8
+粤语电影,http://cfss.cc/cdn/dyu/65871.m3u8
+华语影视,http://cfss.cc/cdn/dyu/3928.m3u8
+神乐影视,http://cfss.cc/cdn/dyu/85894.m3u8
+周末影院,http://cfss.cc/cdn/dyu/3637765.m3u8
+周末电影,http://cfss.cc/cdn/dyu/3637726.m3u8
+兔子影厅,http://cfss.cc/cdn/dyu/8985415.m3u8
+冰冰影厅,http://cfss.cc/cdn/dyu/74374.m3u8
+刀刀影院,http://cfss.cc/cdn/dyu/747764.m3u8
+奶虫影院,http://cfss.cc/cdn/dyu/263824.m3u8
+贝爷壹厅,http://cfss.cc/cdn/dyu/252802.m3u8
+贝爷贰厅,http://cfss.cc/cdn/dyu/4332.m3u8
+贝爷叁厅,http://cfss.cc/cdn/dyu/36337.m3u8
+凌儿影院,http://cfss.cc/cdn/dyu/1377142.m3u8
+云宝影院,http://cfss.cc/cdn/dyu/7305938.m3u8
+花卷影院,http://cfss.cc/cdn/dyu/52787.m3u8
+菜园小饼,http://cfss.cc/cdn/dyu/1735337.m3u8
+米娅影院,http://cfss.cc/cdn/dyu/6537888.m3u8
+橙記港剧,http://cfss.cc/cdn/dyu/4549169.m3u8
+大宝影视,http://cfss.cc/cdn/dyu/805235.m3u8
+蚂蚱影视,http://cfss.cc/cdn/dyu/6079455.m3u8
+怡寶影视,http://cfss.cc/cdn/dyu/434971.m3u8
+圆子影视,http://cfss.cc/cdn/dyu/65858.m3u8
+贝贝影视,http://cfss.cc/cdn/dyu/431460.m3u8
+可乐影视,http://cfss.cc/cdn/dyu/20415.m3u8
+萌牛影视,http://cfss.cc/cdn/dyu/7494871.m3u8
+兔兔影视,http://cfss.cc/cdn/dyu/1504768.m3u8
+无双影视,http://cfss.cc/cdn/dyu/4870914.m3u8
+下饭神剧,http://cfss.cc/cdn/dyu/276200.m3u8
+古装神剧,http://cfss.cc/cdn/dyu/338759.m3u8
+晚湾影视,http://cfss.cc/cdn/dyu/9461178.m3u8
+酒染影视,http://cfss.cc/cdn/dyu/7550220.m3u8
+芊珏影视,http://cfss.cc/cdn/dyu/8814650.m3u8
+热门港剧,http://cfss.cc/cdn/dyu/5522351.m3u8·
+盗墓剧集,http://cfss.cc/cdn/dyu/9292503.m3u8
+金庸武侠,http://cfss.cc/cdn/dyu/7644931.m3u8
+国产剧集,http://cfss.cc/cdn/dyu/8157860.m3u8
+国产剧场,http://cfss.cc/cdn/dyu/308752.m3u8
+爱情公寓,http://cfss.cc/cdn/dyu/2838296.m3u8
+经典剧集,http://cfss.cc/cdn/dyu/6863367.m3u8
+李卫当官,http://cfss.cc/cdn/dyu/7473576.m3u8
+
+
 斗鱼电影4K,http://159.75.85.63:35455/douyu/9249162
 斗鱼电影HD1,http://159.75.85.63:35455/douyu/4246519
 斗鱼电影HD2,http://159.75.85.63:35455/douyu/10240553
@@ -1046,7 +1244,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 🇨🇳电视剧轮播,#genre#
 
 康熙王朝,http://live.nctv.top/6688/yy.php?id=1382736818#https://live.metshop.top/yy/1382736818
-雍正王朝,http://live.nctv.top/6688/yy.php?id=1356043620#https://live.metshop.top/huya/11342439#http://cfss.cc/cdn/hy/11342439.flv
+雍正王朝,http://live.nctv.top/6688/yy.php?id=1356043620#https://live.metshop.top/huya/11342439#http://cfss.cc/cdn/hy/11342439.m3u8
 纪晓岚,http://live.nctv.top/6688/yy.php?id=1382781415#https://live.metshop.top/yy/1382781415
 宰相刘罗锅,http://live.nctv.top/6688/yy.php?id=1353892468#https://lunbo.freetv.top/yy/1353892468
 神医喜来乐,http://live.nctv.top/6688/yy.php?id=1382714119#https://live.metshop.top/yy/1382714119#https://lunbo.freetv.top/yy/1382714119
@@ -1243,29 +1441,29 @@ X战警系列电影,http://live.nctv.top/6688/yy.php?id=1382736893
 大时代,https://live.metshop.top/huya/23865161
 梁朝伟版鹿鼎记,https://live.metshop.top/huya/23734183
 
-孙悟空,http://cfss.cc/cdn/hy/23735126.flv
-张卫健版西游记,http://cfss.cc/cdn/hy/23728660.flv
-楚汉骄雄,http://cfss.cc/cdn/hy/23740156.flv
-鹿鼎记小春版,http://cfss.cc/cdn/hy/23865080.flv
-天龙八部97版,http://cfss.cc/cdn/hy/23903123.flv
-刑事侦缉档案,http://cfss.cc/cdn/hy/23734169.flv
-寻秦记,http://cfss.cc/cdn/hy/23864973.flv
-法证先锋,http://cfss.cc/cdn/hy/23863804.flv
-陀枪师姐,http://cfss.cc/cdn/hy/23860039.flv
-笑傲江湖,http://cfss.cc/cdn/hy/23865142.flv
-洗冤录,http://cfss.cc/cdn/hy/23903130.flv
-倚天屠龙记,http://cfss.cc/cdn/hy/23734246.flv
-神雕侠侣,http://cfss.cc/cdn/hy/23865171.flv
-鉴证实录,http://cfss.cc/cdn/hy/23903183.flv
-创世纪,http://cfss.cc/cdn/hy/23749083.flv
-使徒行者,http://cfss.cc/cdn/hy/23734256.flv
-金枝欲孽,http://cfss.cc/cdn/hy/23865036.flv
-大唐双龙传,http://cfss.cc/cdn/hy/23728674.flv
-妙手仁心,http://cfss.cc/cdn/hy/23829543.flv
-扫黄先锋,http://cfss.cc/cdn/hy/23903196.flv
-笑看风云,http://cfss.cc/cdn/hy/23865058.flv
-大时代,http://cfss.cc/cdn/hy/23865161.flv
-梁朝伟版鹿鼎记,http://cfss.cc/cdn/hy/23734183.flv
+孙悟空,http://cfss.cc/cdn/hy/23735126.m3u8
+张卫健版西游记,http://cfss.cc/cdn/hy/23728660.m3u8
+楚汉骄雄,http://cfss.cc/cdn/hy/23740156.m3u8
+鹿鼎记小春版,http://cfss.cc/cdn/hy/23865080.m3u8
+天龙八部97版,http://cfss.cc/cdn/hy/23903123.m3u8
+刑事侦缉档案,http://cfss.cc/cdn/hy/23734169.m3u8
+寻秦记,http://cfss.cc/cdn/hy/23864973.m3u8
+法证先锋,http://cfss.cc/cdn/hy/23863804.m3u8
+陀枪师姐,http://cfss.cc/cdn/hy/23860039.m3u8
+笑傲江湖,http://cfss.cc/cdn/hy/23865142.m3u8
+洗冤录,http://cfss.cc/cdn/hy/23903130.m3u8
+倚天屠龙记,http://cfss.cc/cdn/hy/23734246.m3u8
+神雕侠侣,http://cfss.cc/cdn/hy/23865171.m3u8
+鉴证实录,http://cfss.cc/cdn/hy/23903183.m3u8
+创世纪,http://cfss.cc/cdn/hy/23749083.m3u8
+使徒行者,http://cfss.cc/cdn/hy/23734256.m3u8
+金枝欲孽,http://cfss.cc/cdn/hy/23865036.m3u8
+大唐双龙传,http://cfss.cc/cdn/hy/23728674.m3u8
+妙手仁心,http://cfss.cc/cdn/hy/23829543.m3u8
+扫黄先锋,http://cfss.cc/cdn/hy/23903196.m3u8
+笑看风云,http://cfss.cc/cdn/hy/23865058.m3u8
+大时代,http://cfss.cc/cdn/hy/23865161.m3u8
+梁朝伟版鹿鼎记,http://cfss.cc/cdn/hy/23734183.m3u8
 
 
 埋堆堆01,http://159.75.85.63:35455/huya/23749096
@@ -1490,252 +1688,270 @@ X战警系列电影,http://live.nctv.top/6688/yy.php?id=1382736893
 明星大片,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225664/index.m3u8
 武搏世界,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225680/index.m3u8
 
-📡  香港频道p3p,#genre#
-有线新闻台,p3p://173.208.176.178:19806/655bd22c000147307fdff68936807320
-无线新闻台,p3p://173.208.176.178:19806/653e4818000b73240c7d19181340415e
-Now新闻台,p3p://173.208.176.178:19806/653e4f3d0003bdbf0c98ffaf583a6e3a
-无线翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-无线翡翠台,p3p://173.208.176.178:19806/653e4c02000ea0440c8c63fd3e5d709d
-无线华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-无线Plus台,p3p://173.208.176.178:19806/6649bce20008d56453eeebfc022701f1
-无线Plus台,p3p://173.208.176.178:19806/653e4d3e000b344f0c91357e73163f82
-无线Plus台,p3p://173.208.176.178:19806/5ffbee4900066c0ddf0b8b84423c06f3
-无线Plus台,p3p://173.208.176.178:19806/611d989d0005244a4a7f24d111282ffb
-无线明珠台,p3p://173.208.176.178:19806/611d99f3000116024a845bb9627404c9
-无线明珠台,p3p://173.208.176.178:19806/602f1ba9000814efa6f2970333d309d9
-ViuTV,p3p://173.208.176.178:19806/5fed3234000c7a49a57dbd6e14af358f
-ViuTV,p3p://173.208.176.178:19806/611d99820007a67c4a82a3fe3cc749de
-ViuTV6,p3p://173.208.176.178:19806/5fed31e7000736e2a57c8f4c14d55d36
-HoyTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
-Popc电影,p3p://173.208.176.178:19806/663e9212000a54b4285005cd59217563
-龙祥电影(粤),p3p://173.208.176.178:19806/63375cce0008451773313a26199f3191
-龙祥电影(国),p3p://173.208.176.178:19806/60115453000a238d32a1418142be77f7
-美亚电影(粤),p3p://173.208.176.178:19806/655f8ccc0007d2578e70f934113a2428
-美亚电影(国),p3p://173.208.176.178:19806/64c3653f0007f6812c7970122ff43531
-天映频道(粤),p3p://173.208.176.178:19806/65bf577300077e84049eb5316df2149c
-天映频道(粤),p3p://173.208.176.178:19806/6533b684000931d9e334c45b064e2833
-天映频道(国),p3p://173.208.176.178:19806/65bf5a9a0005aa9d04ab0515203f3b8b
-天映频道(国),p3p://173.208.176.178:19806/6471b0bb00011e09ed51d397629e4f55
-天映频道(闽),p3p://173.208.176.178:19806/6471b17d00006ecded54c93b1ea4486b
-天映经典台,p3p://173.208.176.178:19806/5fded422000d0eb46d5f29815c1d4155
-Now星影台,p3p://173.208.176.178:19806/65423b7b00047dbb1bebd20b45f374d2
-Now爆谷台,p3p://173.208.176.178:19806/65423beb00082fd01bed887e0ae23bbf
-Now爆谷台,p3p://173.208.176.178:19806/65bf60df000777a004c3831b56247b8e
-Now紫金台,p3p://173.208.176.178:19806/6427e42c00084703cd0c176f58dd37f1
-Now华剧台,p3p://173.208.176.178:19806/6519bc200001e7b37dbb01f124075086
-Now剧集台,p3p://173.208.176.178:19806/63ed3e1500077d30e7f449055a0846ce
-Now直播台,p3p://173.208.176.178:19806/655fa52d000c3fc98ed0353c0e327e63
-Now英超粤,p3p://173.208.176.178:19806/65acf008000b26e4bcbb1adc24476b3f
-Now体育一,p3p://173.208.176.178:19806/63ed464b000b911be8145d035c4e0f21
-Now体育二,p3p://173.208.176.178:19806/63ed46be0002b99be8161bfd62d87e90
-Now体育三,p3p://173.208.176.178:19806/63ed4715000c1bffe81772386f5b27f7
-Now体育四,p3p://173.208.176.178:19806/63ed478e000a98f2e8194a7c2bdc7fe6
-Now体育五,p3p://173.208.176.178:19806/63ed98c2000122f4e9567b333a74077a
-Now体育六,p3p://173.208.176.178:19806/63ed98d90002f8f6e956d5822ff208b1
-Now体育七,p3p://173.208.176.178:19806/63ed990600010efde95784d4529f16d2
-Nowplus台,p3p://173.208.176.178:19806/65a442ed000e5f029ad7146558606385
-NowPrime,p3p://173.208.176.178:19806/644edbcc0004d5a765428da71f967a86
-无线赛马台,p3p://173.208.176.178:19806/6506d591000d6d7733e6bdfb4725689e
-Now赛马台,p3p://173.208.176.178:19806/6318b7730000b372fb7ca7e170c66e54
-有线赛马台,p3p://173.208.176.178:19806/64db58eb000d759e8a08afbc7bd65062
-有线综合台,p3p://173.208.176.178:19806/62184bc3000cd48f11e47b06202b7e18
-TVB-1 US,p3p://173.208.176.178:19806/63efe07e000c1db2f23eb46a4e00518a
-TVB-J1US,p3p://173.208.176.178:19806/63efe0de000858baf2402a646c573e1b
-TVB-E US,p3p://173.208.176.178:19806/63efe2e2000d23b5f2480b4125294b9a
-TVBdrama,p3p://173.208.176.178:19806/63efe252000a7658f245d81113e44b34
-TVB-news,p3p://173.208.176.178:19806/63efe2a100034c82f2470ad419e43975
+📡  香港频道p2p,#genre#
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+翡翠台,P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
+PopC,P2p://generationnexxxt.com:19806/3ae0f859370b4f17baec42495be6f043
+无线新闻,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
+TVB Plus,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
+TVB星河,P2p://generationnexxxt.com:19806/e94f4c244af8464fb06eff4c9da250a6
+Now新闻,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74
+黄金翡翠台,P2p://generationnexxxt.com:19806/1444d681fb1b44d4a20ff001c2bb2f7c
+千禧经典台,P2p://generationnexxxt.com:19806/b3069418cdff4c69bb544e4b1ff04d56
+天映经典,P2p://generationnexxxt.com:19806/3496dc2c5dc1421c8c403eb9c475753e
+戏曲台,P2p://generationnexxxt.com:19806/131a3f2bbae740fc982903c576a97920
+TVB娱乐新闻台,P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b06
+Thrill,P2p://generationnexxxt.com:19806/66ae12410007b5a3e83ae0a247146741
+明珠台,P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe
+18台,P2p://generationnexxxt.com:19806/2cd619b81446414fb605daa1e86bebd6
+HOY资讯,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
+澳门-MACAU,P2p://generationnexxxt.com:19806/b08e564af8cf49e2a0fadaf4978a04cf
+HKC 18,P2p://generationnexxxt.com:19806/e38b0ea6a9174a92bf7f30a36d4e0fe9
+RTHK31,P2p://generationnexxxt.com:19806/c7cd517a9e5b44a9b6037c90f998627f
+RTHK32,P2p://generationnexxxt.com:19806/8ef4a2b7bac54aba8b17dfd2071df91f
+HOY TV,P2p://generationnexxxt.com:19806/66b0affc0000b2eff273015566865bd4
+翡翠台,P2p://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
+TVB Plus,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
+ViuTVsix,P2p://generationnexxxt.com:19806/b6f920891ad9473ca6f839df7616f580
+ViuTV,P2p://generationnexxxt.com:19806/956aa1340cd5439689da84cff7a5eaae
+澳门莲花,mitv://135.148.104.228:19806/cd6e7bcddc7c4e6ea2e6d7b6dfa03ae8
+港台电视,P2p://generationnexxxt.com:19806/66ae0d840005a10ee8285dce7b7d2800
 
 
-📡  港台综合p3p,#genre#
+无线新闻,mitv://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
+RTHK31,mitv://135.148.104.228:19806/c7cd517a9e5b44a9b6037c90f998627f
+RTHK32,mitv://135.148.104.228:19806/8ef4a2b7bac54aba8b17dfd2071df91f
+翡翠台,mitv://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
+TVB Plus,mitv://135.148.104.228:19806/faf51cf453a84400be019b14939e49f6
+TVB Plus,mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
+TVB娱乐新闻台,mitv://135.148.104.228:19806/e77d39049c07479ab0ff57800c6e5b06
+无线新闻,mitv://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
+PopC,mitv://135.148.104.228:19806/3ae0f859370b4f17baec42495be6f043
+ViuTVsix,mitv://135.148.104.228:19806/b6f920891ad9473ca6f839df7616f580
+ViuTV,mitv://135.148.104.228:19806/956aa1340cd5439689da84cff7a5eaae
+TVB星河,mitv://135.148.104.228:19806/e94f4c244af8464fb06eff4c9da250a6
+TVB星河,mitv://135.148.104.228:19806/afcbb73766d64754bd8d35fc330aae1c
+戏曲台,mitv://135.148.104.228:19806/131a3f2bbae740fc982903c576a97920
+翡翠台,mitv://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
+千禧经典台,mitv://135.148.104.228:19806/b3069418cdff4c69bb544e4b1ff04d56
+明珠台,mitv://135.148.104.228:19806/066930b0d2764f05a9b8a0019efe82fe
+Now财经台,mitv://135.148.104.228:19806/f0dd1f92af2845c2abd2ff29aff2b8ca
+美亚电影台(粤语),mitv://135.148.104.228:19806/81ea49b841454e1c901ac507f231a581
+18台,mitv://135.148.104.228:19806/2cd619b81446414fb605daa1e86bebd6
+HOY资讯台,mitv://135.148.104.228:19806/f40dc92cdc224868b83be4156ec315dc
+黄金翡翠台,mitv://135.148.104.228:19806/1444d681fb1b44d4a20ff001c2bb2f7c
+PopC,mitv://135.148.104.228:19806/63cdb28090d949ed824376fab51fdd12
+翡翠台,mitv://135.148.104.228:19806/2c1ef45c2c174f5c8df4d049e1cbccfd
+Now财经台,mitv://135.148.104.228:19806/415e15f33f8b4b5b95a400a406abd534
+TVB娱乐新闻台,mitv://135.148.104.228:19806/05e767dba8fa48e9ba386ed231c94318
+明珠台,mitv://135.148.104.228:19806/6ea5ab8d22f04024b3fac9bfb2b243aa
+香港国际财经台,mitv://135.148.104.228:19806/b6594fa379204fc5b11ba4bc3fe7d932
+TVB星河,mitv://135.148.104.228:19806/afcbb73766d64754bd8d35fc330aae1c
+澳门莲花,mitv://135.148.104.228:19806/f7ac1f0fdbe64fcc82cee29e0b590242
+澳门-MACAU,mitv://135.148.104.228:19806/a2bbc4a4feec4168804624c67fdea801
+黄金翡翠台,mitv://135.148.104.228:19806/99b70f5afa114465aa463db0cfed6569
+ViuTVsix,mitv://135.148.104.228:19806/ea75ceca822f454bb858845559d5fc55
 
-Astr剧集台,p3p://173.208.176.178:19806/5fdeca140004e52a6d37e0be49f64a69
-Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-Astr综合台,p3p://173.208.176.178:19806/64bbb99f0005fdbf0e8331dd6a6f10a1
-Astr欢喜台,p3p://173.208.176.178:19806/620f05bb0000b01ff985bb62369741c0
-Astr爱奇艺,p3p://173.208.176.178:19806/5fe07bb800090e1173d5591b2d87144a
-Hub都会,p3p://173.208.176.178:19806/64bbb7fc0000f99e0e7ccbda6e527811
-Hub娱家,p3p://173.208.176.178:19806/64bbb85e0009c5db0e7e4ceb66ad5c17
-8度空间,p3p://173.208.176.178:19806/64bce778000d4c1f131e20196db7116d
-无线星河(粤),p3p://173.208.176.178:19806/5fdee23d000b670a6d96428e4c334643
-无线星河(国),p3p://173.208.176.178:19806/6563174f0002ffaf9c45dd927c7d6df1
-无线功夫台,p3p://173.208.176.178:19806/653e4a3f000b1abb0c85815c35fa0803
-无线娱乐台,p3p://173.208.176.178:19806/5fe7f68d000e73d9910d2a86341258f7
-无线综艺台,p3p://173.208.176.178:19806/63108c86000a543bdb95705579fa26ad
-无线综艺台,p3p://173.208.176.178:19806/6506d285000b06bd33dad67a652e2bfd
-黄金翡翠台,p3p://173.208.176.178:19806/653e49c20006c60f0c8397f7771b1b7b
-黄金华剧台,p3p://173.208.176.178:19806/652970de00011277bb14dcd76e301cc0
-无线亚剧台,p3p://173.208.176.178:19806/6284685e00039b52b82eeeca7a785fda
-无线粤片台,p3p://173.208.176.178:19806/653e4b8d00001a450c8a973c06325101
-无线戏曲台,p3p://173.208.176.178:19806/63108bd0000e4a9cdb92aa6820e833d5
-千禧经典台,p3p://173.208.176.178:19806/5fdee1a2000b5fba6d93e51308cb7ddf
-千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-RTHK-31台,p3p://173.208.176.178:19806/6109ec88000eed44fda7d8ff6e487ce1
-RTHK-32台,p3p://173.208.176.178:19806/6109eca300044552fda83fbc4a2f6a1b
-RTHK-33台,p3p://173.208.176.178:19806/6649b63b0005235553d4eeaa04665f78
-RTHK-34台,p3p://173.208.176.178:19806/6649b6c000029bce53d6f58d6f880e70
-RTHK-35台,p3p://173.208.176.178:19806/6649b7100008096b53d82f711ddb55de
-澳门mac台,p3p://173.208.176.178:19806/64c2611000018873288116d70e04175d
-澳门莲花台,p3p://173.208.176.178:19806/60b977ed000ba538c36458471a9d6772
-Now财经台,p3p://173.208.176.178:19806/6256e47a0007a6bb0665fa1971252f50
-东森经财台,p3p://173.208.176.178:19806/61468bd70005123dea7373f226636dba
-纬来电影台,p3p://173.208.176.178:19806/62c860e50008ea96c1ae9a96599c6947
-東森电影,p3p://173.208.176.178:19806/62c103a5000b5a66a4eacca77822079a
-龙华电影,p3p://173.208.176.178:19806/621471310004d28d02d6aeb471c265ec
-数位电影,p3p://173.208.176.178:19806/6223ae1b0007136f3e5c44280e3300fa
-映画电影,p3p://173.208.176.178:19806/63a9b86700096c986a8c8a557cd37007
-极限电影台,p3p://173.208.176.178:19806/6109e9bb0005fd87fd9ce5ea2c1f18d3
-采昌剧集国,p3p://173.208.176.178:19806/621de2ed000a255d27ba994346c66a7c
-好莱坞电影,p3p://173.208.176.178:19806/62cee8b3000ea6aedb30a55616047866
+📡  台湾频道p2p,#genre#
 
-📡  台湾频道p3p,#genre#
-
-中天新闻,p3p://173.208.176.178:19806/613dba64000abeb1c801c02934bb45fc
-tvbs新闻台,p3p://173.208.176.178:19806/621858e3000e70ad1217c0700d576ad0
-东森新闻台,p3p://108.181.32.169:34778/64251f9700046520ea5ce8b85b6c11da
-三立新闻台,p3p://173.208.176.178:19806/6014c896000c7101401f67cc5477681b
-三立-inews,p3p://173.208.176.178:19806/644f81c10003ba2367cad2610d3a2ab5
-寰宇新闻台,p3p://173.208.176.178:19806/653cd4a900049a4206d258a92e941b10
-寰宇闽南台,p3p://173.208.176.178:19806/612d7c11000c9faf888ebf9f3276784e
-壹新闻台,p3p://173.208.176.178:19806/621dbb640001cb2b272027f74da62753
-镜新闻台,p3p://173.208.176.178:19806/63ebd33c0003c437e26ae87279d061f1
-年代新闻台,p3p://173.208.176.178:19806/5fe09fec000ac0127462c4ac6b1f16a3
-华视新闻台,p3p://173.208.176.178:19806/632c706b0009d57248864b64705a59a0
-台视新闻台,p3p://173.208.176.178:19806/62caf1dc000525b3cbb4de6e3c0e2af8
-中视新闻台,p3p://173.208.176.178:19806/61ff2b9d0004cfe6bb9a99f71e1c4c92
-民视新闻台,p3p://173.208.176.178:19806/602f1f4a000aa86fa700c49817387f81
-民视闽南台,p3p://173.208.176.178:19806/6001ba8400051d89f5b151a63fa96419
-民视第一台,p3p://173.208.176.178:19806/5fe0a665000c49bf747c0dbd57ec09a3
-民视台湾台,p3p://173.208.176.178:19806/6388b888000de54e5f4c698049f16f53
-民视旅游台,p3p://173.208.176.178:19806/61769f2d000d84d7a63c4df74f4f24c4
-华视闽南台,p3p://173.208.176.178:19806/61eff95c000bcf35803ebfe7426e2914
-中视闽南台,p3p://173.208.176.178:19806/621dab720008820a26e1e06b75653395
-公视闽南台,p3p://173.208.176.178:19806/63ebf0b7000e7d27e2de13a9113e7096
-台视闽南台,p3p://173.208.176.178:19806/612ee2240008f3db8e0578dc59406f9e
-台视财经台,p3p://173.208.176.178:19806/6223b571000a13023e78ece5030b5b05
-中视青采台,p3p://173.208.176.178:19806/621db1fb0006fbf526fb672712522a46
-中视经典台,p3p://173.208.176.178:19806/621db24e000d4a9726fcacfd58c400a2
-中天亚洲台,p3p://173.208.176.178:19806/5fe6fce400011e568d3deaf35a511da9
-中天娱乐台,p3p://173.208.176.178:19806/5ffae39100029825dafa1d03520571ac
-tvbs精彩台,p3p://173.208.176.178:19806/61efd0a100047e1a7f9fa38d29f5746d
-tvbs欢乐台,p3p://173.208.176.178:19806/61e831a60008c7d761db13151abe16ae
-tvbs-HD台,p3p://173.208.176.178:19806/612ee5ef000f06f58e144b6727ec3efb
-三立台湾台,p3p://173.208.176.178:19806/5fe2947f000c58a57c0623474ae64e07
-三立综合台,p3p://173.208.176.178:19806/6233dc940004f17a7d90e7c364b93c82
-三立都会台,p3p://173.208.176.178:19806/5fe29458000eb9287c058b8b2e5806e8
-三立国际台,p3p://173.208.176.178:19806/5fe95e150003dbe09689221a68d3215e
-靖洋戏剧台,p3p://173.208.176.178:19806/626104d8000627c22df3f662158708fa
-人间卫视台,p3p://173.208.176.178:19806/64bbd61c0005f2d80ef27a2574246048
-MO_亲子台,p3p://173.208.176.178:19806/61e0ffbf000c4e3545c098666cb76c2d
-龙华偶像台,p3p://173.208.176.178:19806/609bb1b0000732744f174daa791d3b43
-龙华戏剧台,p3p://173.208.176.178:19806/6214c295000a5fa204149eb30d3c30b4
-龙华经典台,p3p://173.208.176.178:19806/6223b9d8000ef67e3e8a2073190e36d5
-龙华洋片台,p3p://173.208.176.178:19806/64c0e1af000875f522a785c0570b06ae
-龙华电影台,p3p://173.208.176.178:19806/621471310004d28d02d6aeb471c265ec
-东森电影台,p3p://173.208.176.178:19806/62c103a5000b5a66a4eacca77822079a
-东森幼幼台,p3p://173.208.176.178:19806/62c9a6bb000ac34dc6a767036c5f3878
-东森综合台,p3p://173.208.176.178:19806/5fe8c5570001412994347b4506da6ebb
-东森洋片台,p3p://173.208.176.178:19806/64c62c06000d1cf03751bf246ed813e7
-纬来戏剧台,p3p://173.208.176.178:19806/5fe29426000330687c04c55011370c91
-纬来育乐台,p3p://173.208.176.178:19806/6214bdc7000061300401d77e20cc43d8
-纬来体育台,p3p://173.208.176.178:19806/5fe16e4c000e45c17788ec964e9c5564
-智林体育台,p3p://173.208.176.178:19806/62148d7e000079c103453a521daa6e9f
-八大第一台,p3p://173.208.176.178:19806/5fea93070007b1939b3ff46f17b905c7
-八大戏剧台,p3p://173.208.176.178:19806/6224f676000aef1a435e76c619855b4e
-八大娱乐台,p3p://173.208.176.178:19806/5fe293b60007594a7c0310e05b6a27ac
-八大综合台,p3p://173.208.176.178:19806/61a57c52000cc2015d49e9e91be106b6
-八大综艺台,p3p://173.208.176.178:19806/621e16570009521a28836f1b4c052719
-八大精彩台,p3p://173.208.176.178:19806/6223beb7000542db3e9d251558fb45b1
-Eleven一台,p3p://173.208.176.178:19806/6027f40400042e0d8b002a1b0af27e77
-Eleven二台,p3p://173.208.176.178:19806/6025f1d0000440c783278efb13a4147e
-爱尔达综合,p3p://173.208.176.178:19806/644f9341000c1001680f3089032174aa
-爱尔达影剧,p3p://173.208.176.178:19806/644f91780000980d6808346f494d7ec1
-爱尔达一台,p3p://173.208.176.178:19806/623a8d50000c965397b2d5b26c7b25bd
-爱尔达二台,p3p://173.208.176.178:19806/623a8d8d0001570d97b3c11a65640b68
-爱尔达三台,p3p://173.208.176.178:19806/622e99e60004026169046fd918be6ed7
-博斯魅力台,p3p://173.208.176.178:19806/612ee43d000c84ea8e0dab707a8b2e0d
-博斯网球台,p3p://173.208.176.178:19806/6275f21d000aeb447fb1e83c30d60273
-博斯运动一,p3p://173.208.176.178:19806/61f02576000b2c0a80eb0552388d145e
-博斯运动二,p3p://173.208.176.178:19806/62639c49000784a03813882a6f5c7e5d
-博斯无限一,p3p://173.208.176.178:19806/647cba27000a6f78186e481d11013645
-博斯无限二,p3p://173.208.176.178:19806/6146901b0006875bea841df772893d7b
-亚洲旅游台,p3p://173.208.176.178:19806/61e4f963000c710c55474e4e1e2273d9
-亚洲美食台,p3p://173.208.176.178:19806/62c9a44500000cd3c69dc74b77c62c82
-动物星球台,p3p://173.208.176.178:19806/6214894b0007e3120334d50a59d03689
-Hbo原创台,p3p://173.208.176.178:19806/623a6e38000091d497395ce957b27132
-Hbo家庭台,p3p://173.208.176.178:19806/623a706d0003edf59741fcc023dc0089
-Hbo巨献台,p3p://173.208.176.178:19806/623a700000069676974053b555b700d4
-Hbo巨献备,p3p://173.208.176.178:19806/6233e648000735057db6cf734adf440d
-AXN电影台,p3p://173.208.176.178:19806/6258ddc5000ee8a40e1bc8f50dec545c
-KTSF-26台,p3p://173.208.176.178:19806/653e4cda0007743f0c8fade86d132b26
-BOO电影台,p3p://173.208.176.178:19806/5fded40700033e036d5ebd8604bf417b
-THrill-电影,p3p://173.208.176.178:19806/630c2b9400044df5ca7abd7159677c41
-Cinemaxhk,p3p://173.208.176.178:19806/65b1767d00058cdcce68527c3131148e
-Cinemaxhk,p3p://173.208.176.178:19806/64ce039d0009f00b55f3e422778f3af3
-Lovenature,p3p://173.208.176.178:19806/655fa9280009c6278edfc1176731425f
-Lovenature,p3p://173.208.176.178:19806/6233fcfa000be8f27e0f78035e656379
-OneTV综合,p3p://173.208.176.178:19806/64d5c5550007c4d9744057ea09db782a
-创世电视台,p3p://173.208.176.178:19806/65ac3ff5000d8862ba0b51494dc3254e
-AnimaxHK,p3p://173.208.176.178:19806/6506d1a00000a99a33d7555a4b747caa
-EYE-戏剧台,p3p://173.208.176.178:19806/64c62f0c000d47c0375d8ea3081775da
-EYE-旅游台,p3p://173.208.176.178:19806/64c105a500023b4e2333fd1453e42393
-罪案追缉CI,p3p://173.208.176.178:19806/623baf7a0004e5d79c2047cd46107be2
-彩昌影剧台,p3p://173.208.176.178:19806/621de2ed000a255d27ba994346c66a7c
-尼克JR频道,p3p://173.208.176.178:19806/6233e05300064fcf7d9f8a39563b6c75
-达芬奇频道,p3p://173.208.176.178:19806/62011f820008c9f3c33ae0231cf86a05
-CN-卡通台,p3p://173.208.176.178:19806/61ded38e000d52023d43f93e0ee00012
-靖天卡通台,p3p://173.208.176.178:19806/625b6d3800022fe9181c1ee5362c159d
-探索亚洲台,p3p://173.208.176.178:19806/623bc4f4000da3919c742e942bdb3571
-bbc-eart台,p3p://173.208.176.178:19806/6444eb2e000921503e6ecfe873cd10b1
-中旺电视台,p3p://173.208.176.178:19806/5fe09c570001addf7454c44e021f76be
-壹电影频道,p3p://173.208.176.178:19806/651c3a7e00035f9e8778a18d0aeb27f1
-靖天国际台,p3p://173.208.176.178:19806/612db8220006940e897960753ab534e9
-龙华日韩台,p3p://173.208.176.178:19806/621e1d0e00085766289da9bb1d7120af
-靖天戏剧台,p3p://173.208.176.178:19806/612db70e000298f98975294e4645098b
-影迷数位台,p3p://173.208.176.178:19806/6223ae1b0007136f3e5c44280e3300fa
-WarnerTV,p3p://173.208.176.178:19806/623a7c43000859b0977039e0175b0470
-靖天综合台,p3p://173.208.176.178:19806/6223bd68000c7a903e980a5524d66f67
-靖天映画台,p3p://173.208.176.178:19806/6258eae500040fd80e4f0b2311754279
-美食星球台,p3p://173.208.176.178:19806/62c9a5620009f165c6a22320701370b6
-History-台,p3p://173.208.176.178:19806/6233e1a30007e08d7da4ab21717b3e79
-JET-综合台,p3p://173.208.176.178:19806/621e14f2000381b7287dfb1557135ff8
-靖天欢乐台,p3p://173.208.176.178:19806/6258f7e400070ac10e81d00831393e97
-靖天育乐台,p3p://173.208.176.178:19806/6223be04000a57323e9a6b2919b21d76
-影迷纪实台,p3p://173.208.176.178:19806/62c9a2fe00025fc4c698ca952e9711cb
-amc电影台,p3p://173.208.176.178:19806/625bbd49000d7c0d1954e42d45bc3182
-靖天电影台,p3p://173.208.176.178:19806/61ed0469000059af74b25aa267531e5a
-Mtv闽南台,p3p://173.208.176.178:19806/621e1827000d7a3a288a84ae70c44b0d
-Lifetime韩,p3p://173.208.176.178:19806/623a91f0000d3ab297c4e6e2101d46b4
-历史频道一,p3p://173.208.176.178:19806/6233e1a30007e08d7da4ab21717b3e79
-历史频道二,p3p://173.208.176.178:19806/6233e2240002d3af7da6a1bf693a1ed5
-Trace-体育,p3p://173.208.176.178:19806/644faccf000c7b6368730354764b17ed
-韩国娱乐台,p3p://173.208.176.178:19806/621e16b0000ec4772884cc295a1614a8
-Catch-电影,p3p://173.208.176.178:19806/6258e5c9000dd0d00e3b184c1b9c4f4c
-Cinem电影,p3p://173.208.176.178:19806/6233e8f1000112b17dc1320c7d1c4049
-MyCin电影,p3p://173.208.176.178:19806/6233fc79000a0ea07e0d7fa1125015d0
-LifeTime台,p3p://173.208.176.178:19806/623a91f0000d3ab297c4e6e2101d46b4
-Boomerang,p3p://173.208.176.178:19806/621e313f0005594c28ec88582a49029c
-原住民电视,p3p://173.208.176.178:19806/64450b180002b23d3eeb784a0aa62e20
-公视戏剧台,p3p://173.208.176.178:19806/64450cdd000b67ea3ef2640f773a7ec7
-EVE -HD台,p3p://173.208.176.178:19806/6445172e000920783f1aafee754f43e4
-HGTV频道,p3p://173.208.176.178:19806/644518fd0002d5953f21bedc56b6465f
-Cl古典音乐,p3p://173.208.176.178:19806/6452b4f1000c38e8744ac80744c33d67
-Mezzolive,p3p://173.208.176.178:19806/6452bcb000039d52746907f4476f5e7b
-猪哥亮歌厅,p3p://173.208.176.178:19806/6452bbf2000d02457466242b0e5c5ea2
-Universetv,p3p://173.208.176.178:19806/644fbb7c0004a5e968ac550c11f72df5
-GlobalTrek,p3p://173.208.176.178:19806/644fb34f000f396e688c67ff6b147338
-霹雳闽南台,p3p://173.208.176.178:19806/644507280004aa433edc17562e211a38
-Baby TV台,p3p://173.208.176.178:19806/64bea3f00002bdf919e6522520650b26
-国会频道一,p3p://173.208.176.178:19806/64ce0646000722d755fe479603e64ba8
-国会频道 二,p3p://173.208.176.178:19806/64ce06980008b4f755ff884d646a56da
-SMART频道,p3p://173.208.176.178:19806/64e367a800053465a982145d191f168f
-CMUSIC-台,p3p://173.208.176.178:19806/64e368dc000e5b23a986c9d62f9604df
-寰宇财经台,p3p://173.208.176.178:19806/64e36edf00052681a99e432a601547f5
-RockA电影,p3p://173.208.176.178:19806/65ad274400000b46bd92da681fce74f2
-RockE电影,p3p://173.208.176.178:19806/65ad27c7000dfceebd94ddb20bec19f4
-视华仁纪实,p3p://173.208.176.178:19806/62c9a3be00088219c69bba2111fd091e
-大立电视台,p3p://173.208.176.178:19806/64c4d2ba00051d1d320d17d218503f93
-番薯频道台,p3p://173.208.176.178:19806/64c27b030001a1b728e6741548c32c95
+中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
+中视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv074
+东森新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv152
+民视新闻,https://litv.zapi.us.kg/?id=litv-ftv13
+镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075
+台视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv051
+台视财经,https://litv.zapi.us.kg/?id=4gtv-4gtv056
+华视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv052
+寰宇新闻台湾,https://litv.zapi.us.kg/?id=litv-longturn15
+寰宇新闻,https://litv.zapi.us.kg/?id=litv-longturn14
+TVBS新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv072
+TVBS,https://litv.zapi.us.kg/?id=4gtv-4gtv073
+华视,https://litv.zapi.us.kg/?id=4gtv-4gtv041
+民视第一台,https://litv.zapi.us.kg/?id=4gtv-4gtv003
+民视旅游,https://litv.zapi.us.kg/?id=litv-ftv07
+民视综艺,https://litv.zapi.us.kg/?id=4gtv-4gtv004
+民视影剧,https://litv.zapi.us.kg/?id=litv-ftv09
+公视戏剧,https://litv.zapi.us.kg/?id=4gtv-4gtv042
+公视,https://litv.zapi.us.kg/?id=4gtv-4gtv066
+采昌,https://litv.zapi.us.kg/?id=4gtv-4gtv049
+TVBS精采,https://litv.zapi.us.kg/?id=4gtv-4gtv067
+TVBS欢乐,https://litv.zapi.us.kg/?id=4gtv-4gtv068
+AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
+八大综合,https://litv.zapi.us.kg/?id=4gtv-4gtv039
+八大精彩,https://litv.zapi.us.kg/?id=4gtv-4gtv034
+中视菁采,https://litv.zapi.us.kg/?id=4gtv-4gtv064
+中视经典,https://litv.zapi.us.kg/?id=4gtv-4gtv080
+龙华卡通,https://litv.zapi.us.kg/?id=litv-longturn01
+龙华电影,https://litv.zapi.us.kg/?id=litv-longturn03
+龙华日韩,https://litv.zapi.us.kg/?id=litv-longturn11
+龙华偶像,https://litv.zapi.us.kg/?id=litv-longturn12
+龙华戏剧,https://litv.zapi.us.kg/?id=litv-longturn18
+龙华经典,https://litv.zapi.us.kg/?id=litv-longturn21
+靖洋戏剧,https://litv.zapi.us.kg/?id=4gtv-4gtv045
+靖天综合,https://litv.zapi.us.kg/?id=4gtv-4gtv046
+靖天日本,https://litv.zapi.us.kg/?id=4gtv-4gtv047
+靖天欢乐,https://litv.zapi.us.kg/?id=4gtv-4gtv054
+靖天映画,https://litv.zapi.us.kg/?id=4gtv-4gtv055
+靖洋卡通,https://litv.zapi.us.kg/?id=4gtv-4gtv057
+靖天戏剧,https://litv.zapi.us.kg/?id=4gtv-4gtv058
+靖天电影,https://litv.zapi.us.kg/?id=4gtv-4gtv061
+靖天体乐,https://litv.zapi.us.kg/?id=4gtv-4gtv062
+靖天国际,https://litv.zapi.us.kg/?id=4gtv-4gtv06
+靖天资讯,https://litv.zapi.us.kg/?id=4gtv-4gtv065
+博斯魅力,https://litv.zapi.us.kg/?id=litv-longturn04
+博斯高球2,https://litv.zapi.us.kg/?id=litv-longturn06
+博斯运动2,https://litv.zapi.us.kg/?id=litv-longturn08
+博斯网球,https://litv.zapi.us.kg/?id=litv-longturn09
+博斯无限2,https://litv.zapi.us.kg/?id=litv-longturn13
+生活英语,https://litv.zapi.us.kg/?id=litv-longturn20
+台湾戏剧,https://litv.zapi.us.kg/?id=litv-longturn22
+三立综艺,https://litv.zapi.us.kg/?id=4gtv-4gtv006
+时尚运动,https://litv.zapi.us.kg/?id=4gtv-4gtv014
+台湾客家,https://litv.zapi.us.kg/?id=4gtv-4gtv043
+靖天卡通,https://litv.zapi.us.kg/?id=4gtv-4gtv044
+非凡商业,https://litv.zapi.us.kg/?id=4gtv-4gtv048
+古典音乐,https://litv.zapi.us.kg/?id=4gtv-4gtv059
+国会频道2,https://litv.zapi.us.kg/?id=4gtv-4gtv085
+东森财经,https://litv.zapi.us.kg/?id=4gtv-4gtv153
+ELTA娱乐,https://litv.zapi.us.kg/?id=4gtv-4gtv070
+爱放,https://litv.zapi.us.kg/?id=litv-ftv15
+好消息2,https://litv.zapi.us.kg/?id=litv-ftv17
+音乐频道,https://litv.zapi.us.kg/?id=4gtv-4gtv059
 
 
+📡  新闻频道p2p,#genre#
 
+中天新闻台,mitv://generationnexxxt.com:19806/1180a44e6cef425e826c3e798f7f3ea9
+中视新闻台,mitv://generationnexxxt.com:19806/75f4ea0339f14b62b1df49ede1723daa
+寰宇新闻台,mitv://generationnexxxt.com:19806/33c00ed7adda475f9afe8adbd600bd9a
+东森新闻台,mitv://generationnexxxt.com:19806/311e31668d704df7ade8a4d5e745d49b
+华视新闻,mitv://generationnexxxt.com:19806/ad4759ce4ff244efaa766154165e5d39
+NHK新闻资讯台,mitv://generationnexxxt.com:19806/6dd38f99d9ca484aa3f0a2a50f60ba0f
+无线新闻台(备),mitv://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
+无线新闻台,mitv://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
+CGTN,mitv://generationnexxxt.com:19806/1b5e656dd2604b7e9af1133db1f40955
+BBC World News,mitv://generationnexxxt.com:19806/68b66fcb526a469c95968a8a62c27f01
+CNBC,mitv://generationnexxxt.com:19806/0c7b37b4c3254709945af2916fe4848b
+Bloomberg TV,mitv://generationnexxxt.com:19806/b7a11fd04a2f4a44acdab32693edee1e
+CNA,mitv://generationnexxxt.com:19806/061076408ecc4e4c97af6cbe74f897d9
+壹电视新闻台,mitv://generationnexxxt.com:19806/dc5cf9b6bd4a43aa973b9beea88e631b
+年代新闻(备),mitv://generationnexxxt.com:19806/00b0fb08552945cbbaf718f9d815ca73
+民视新闻台,mitv://generationnexxxt.com:19806/96f9b2974a86449f9a6f881b4e23ca03
+三立新闻台,mitv://generationnexxxt.com:19806/27c4d09b970a447dae2ef153650b7ac1
+TVBS新闻台,mitv://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9
+东森财经新闻台,mitv://generationnexxxt.com:19806/5634f613b7f84f81a5c56a6af4311d57
+非凡新闻台,mitv://generationnexxxt.com:19806/3d7f2e1d0e04407ba29c656092041b09
+TNN 16,mitv://generationnexxxt.com:19806/7462454333594bef83cd252fa653d14e
+JKN 18,mitv://generationnexxxt.com:19806/5e7619bcc3d648419a7be15d55b0a6df
+三立iNEWS,mitv://generationnexxxt.com:19806/6ec25b8c951a47cfb921435fb1968c16
+Sky News,mitv://generationnexxxt.com:19806/82241dd85d9e4dad885f1c12b11e3d2e
+Euronews,mitv://generationnexxxt.com:19806/43dedaf8037e43ceb06f46baa4391692
+France24,mitv://generationnexxxt.com:19806/cff5534d052046bf8a4d8b2047aaa7c0
+600TV,mitv://generationnexxxt.com:19806/cc580b16770e42c081a08a4ee737b28b
+非凡商业台,mitv://generationnexxxt.com:19806/75d635caf96142a3807ed6c5f7e6240d
+CBSN,mitv://generationnexxxt.com:19806/3d6d0c5a24e847369695ae867576a4e9
+Fox News,mitv://generationnexxxt.com:19806/a6e8a65e41004e1dbc0ee1c762a5d30e
+NDTV,mitv://generationnexxxt.com:19806/ed51f8ce798c4eb6b1d55d499370d722
+ABC Australia,mitv://generationnexxxt.com:19806/cab3e899c937431f812c75c84b5cdf5f
+台视新闻台,mitv://generationnexxxt.com:19806/3e72f4e960264195b41106221611a5a7
+寰宇新闻台湾台,mitv://generationnexxxt.com:19806/eca259193814499a8bea04411ffceb1e
+台视财经台,mitv://generationnexxxt.com:19806/adf452cad7a246ca8ccc8301f8184c6e
+CNN,mitv://generationnexxxt.com:19806/88e503d015b54c75866ce86732601017
+now财经台,mitv://generationnexxxt.com:19806/f0dd1f92af2845c2abd2ff29aff2b8ca
+东森新闻台(备),mitv://generationnexxxt.com:19806/f848bf771436495b9ce252af20bea6e2
+镜新闻,mitv://generationnexxxt.com:19806/65372d81bcb84ef4b76dd34a6f0e32bc
+now新闻台,mitv://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74
+Fox News,mitv://generationnexxxt.com:19806/f8b4af1fac554568956d500f533ed0cf
+BBC World News,mitv://generationnexxxt.com:19806/f666946be06f45e8a2e08ebf1136d385
+CNN USA,mitv://generationnexxxt.com:19806/2c9b8717e3bc4b01b2a76d8ae7ad9776
+CBC News,mitv://generationnexxxt.com:19806/fda21da704634e48b989ed9d33807e01
+MSNBC,mitv://generationnexxxt.com:19806/81bf2e7056d94f06a8efb784036f8d38
+CTV News,mitv://generationnexxxt.com:19806/236beb5caf9a4a66afcca1d7cc0a104d
+Business News Network,mitv://generationnexxxt.com:19806/0634014988a34226a3a034b527309099
+CP24,mitv://generationnexxxt.com:19806/1e461dd783af47a395e0bb79180148d2
+The Weather Network,mitv://generationnexxxt.com:19806/95294525f47d423081bec37b4a5f1537
+The Weather Channel,mitv://generationnexxxt.com:19806/118d5553ab4e4acc946d08c9d2299949
+香港国际财经台,mitv://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54
+年代新闻,mitv://generationnexxxt.com:19806/f8c807d770a8429da9d058b516902907
+中天新闻台(B),mitv://147.135.39.171:9906/668829a300087a07bea90b34300003a6
+无线新闻台(B),mitv://generationnexxxt.com:19806/132be793de424970abd09ef9fe09db07
+now财经台(B),mitv://generationnexxxt.com:19806/415e15f33f8b4b5b95a400a406abd534
+Fox News(B),mitv://generationnexxxt.com:19806/95842d0c7228442a91d0e8a46a8ee1c9
+三立iNEWS(B),mitv://generationnexxxt.com:19806/1d4ae63a90fa4f77b866e6f907a2c82c
+香港国际财经台(B),mitv://generationnexxxt.com:19806/b6594fa379204fc5b11ba4bc3fe7d932
+BBC World News(B),mitv://generationnexxxt.com:19806/7fa4771def7c4896b1b9ea7e022f278c
+now新闻台(B),mitv://generationnexxxt.com:19806/b9ba3f0b06b14fe69ac2cbf51c77d816
+三立新闻台(B),mitv://generationnexxxt.com:19806/69427a93f58247d1a31f424cbadc6c4d
+东森新闻台(B),mitv://generationnexxxt.com:19806/e9f96143b31a4e869309a60c27c66bc4
+TVBS新闻台(B),mitv://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1e1
+年代新闻(B),mitv://generationnexxxt.com:19806/cd32e0feca2244288f8a878d7aacf0fc
+非凡新闻台(B),mitv://generationnexxxt.com:19806/a404066e65af4566931c773a385ed1e3
+
+
+📡  电影频道p2p,#genre#
+
+美亚电影台HD,mitv://generationnexxxt.com:19806/6c34f21c2c634e5db469a2971a6e4ed0
+龙华电影,mitv://generationnexxxt.com:19806/40368423d7dc44baaac3fbfc644ee9bf
+Smart知识台,mitv://generationnexxxt.com:19806/b90dd56d139b4ef9af62cfa2a07478f8
+靖天映画,mitv://generationnexxxt.com:19806/02870872a71c4d2296b35dd02d5a9973
+靖天电影台,mitv://generationnexxxt.com:19806/37bdc9a3001d4081a0f0885b317d7221
+CCTV6,mitv://generationnexxxt.com:19806/bcd8bbb9c46540a98045c37dce48b29a
+WARNER TV,mitv://generationnexxxt.com:19806/3565510269ca47e2b0183ec1cdeca375
+amc电影台,mitv://generationnexxxt.com:19806/951cecbe3fd745498d5216c042600ccf
+HBO Family,mitv://generationnexxxt.com:19806/a478d349433544c894aef4e3dc167d64
+CatchPlay电影台,mitv://generationnexxxt.com:19806/6c90e32dd9b14d1f9eebb3c57a351d15
+CinemaWorld,mitv://generationnexxxt.com:19806/b132ee920a4c47b284c08292e8c215f7
+壹电视电影台,mitv://generationnexxxt.com:19806/8ce448f9cbae4feb805286d5b11bcf4d
+采昌影剧台,mitv://generationnexxxt.com:19806/2f739a4b287f479bbd28c962f1eb6367
+天映频道,mitv://generationnexxxt.com:19806/179f2b9026a9449198a6486cb1bc8481
+天映经典,mitv://generationnexxxt.com:19806/3496dc2c5dc1421c8c403eb9c475753e
+tvN Movies HD,mitv://generationnexxxt.com:19806/2272a99a946d4f7fac4cbf0dc62fd58b
+私人影院,mitv://generationnexxxt.com:19806/1b0075d4c3324fcea02675e856556cd0
+东森电影台,mitv://generationnexxxt.com:19806/90fe82037af64fd3bfc08879b08f3e2f
+纬来电影台,mitv://generationnexxxt.com:19806/73fb2db46b6c4ec885e3709d9b7a4983
+龙祥电影,mitv://generationnexxxt.com:19806/1c325d3c69ec458c852b173bf2e397a9
+HBO,mitv://generationnexxxt.com:19806/ccabaebf243e4385a8f39a6abf31f8bb
+东森洋片台,mitv://generationnexxxt.com:19806/29384d5c65734485903a3e592c9ef54f
+AXN,mitv://generationnexxxt.com:19806/6c01776274094a4191d223378054782b
+好莱坞电影台,mitv://generationnexxxt.com:19806/c4810d15af404015859a5fc5059e4716
+CINEMAX,mitv://generationnexxxt.com:19806/a7ef892dc3d54789b8a29e5b8b06882e
+HBO强档巨献,mitv://generationnexxxt.com:19806/7199aae1ab984d4fa9562d1babe7ba06
+HBO原创巨献,mitv://generationnexxxt.com:19806/39c393cd52cb4a1b9b51a542f897570e
+BOO,mitv://generationnexxxt.com:19806/b98310cd5c794352bca4cffc500b0cc6
+Thrill,mitv://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a
+HITS Movies,mitv://generationnexxxt.com:19806/0ea3b9948f824611b4a575cc5a8b4c13
+影迷数位电影台,mitv://generationnexxxt.com:19806/68111c16e7bc42d3bc27791997d39a4b
+美亚电影台(粤语),mitv://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581
+CHC动作电影,mitv://generationnexxxt.com:19806/ba97d7744f9b4bbaac3d6bb6b9e3798b
+CHC高清电影,mitv://generationnexxxt.com:19806/c77364a223374152b5dfccd162cc159a
+CHC家庭影院,mitv://generationnexxxt.com:19806/9151cec1ea824240b5ee3be1a48ae2c9
+纬来电影台(B),mitv://generationnexxxt.com:19806/c919ad41b4a9444bbc9fdf332a13724d
+CINEMAX(B),mitv://generationnexxxt.com:19806/d559fe6e91584b87bff1eaeb0660c6ef
+CinemaWorld(B),mitv://generationnexxxt.com:19806/023f59ea320a4c6e92921cefdbaa56fa
+HBO Family(B),mitv://generationnexxxt.com:19806/e8c4b36eccf04b64aee2e9ef6b12a980
+HBO强档巨献(B),mitv://generationnexxxt.com:19806/55d1f251a1cc4043b0b2a748bcd26242
+HBO原创巨献(B),mitv://generationnexxxt.com:19806/03579c59806d4cd9b1b3100caacadede
+amc电影台(B),mitv://generationnexxxt.com:19806/f3c27a21d7c94ce897675ac9dbcf304f
+影迷数位电影台(B),mitv://generationnexxxt.com:19806/953af90f5a014c74b239928d831a1480
+WARNER TV(B),mitv://generationnexxxt.com:19806/fcf665244a5740ebb61fcba5ef2f6cee
+tvN Movies HD(B),mitv://generationnexxxt.com:19806/4cc0c1c2f4204fe0b99ca3552f63894c
+CHC高清电影(B),mitv://generationnexxxt.com:19806/71dc6da8b03a42059dae9204b5395a89
+CHC家庭影院(B),mitv://generationnexxxt.com:19806/8083b7def9404a41808df7039034cac8
+CHC动作电影(B),mitv://generationnexxxt.com:19806/3dd6b903d6c84def8c6d24db55156032
+
+📡  戏剧频道p2p,#genre#
+
+三立戏剧台,mitv://generationnexxxt.com:19806/3e3919a7f09443d1b07bdea99f22e42f
+龙华戏剧,mitv://generationnexxxt.com:19806/b3526dee03424c8090e6d4d5e787c56b
+靖天戏剧台,mitv://generationnexxxt.com:19806/08786346511f4fbbbbfe0c4e72ad9409
+靖洋戏剧台,mitv://generationnexxxt.com:19806/0089fb08f1b448b99c18ce438a9f7fc5
+东森戏剧台,mitv://generationnexxxt.com:19806/d6863286fa4a40cbbf9f93bd5c1e5733
+八大戏剧台,mitv://generationnexxxt.com:19806/a5393bab3516410fb2bd81ea2329f7b3
+纬来戏剧台,mitv://generationnexxxt.com:19806/8a65b7456abb49f0bd564d6741cd4542
+EYE TV戏剧台,mitv://generationnexxxt.com:19806/bffdd8e7cb994d9e80a697632cf0a40f
+爱尔达影剧台,mitv://generationnexxxt.com:19806/d2fc333d45044f419b16748a28ac19c5
+亚洲剧台,mitv://generationnexxxt.com:19806/08cc25f383fd45e8b063efb2b2708dbc
+东森戏剧台(B),mitv://generationnexxxt.com:19806/4c925da5e039498a85b4d3fa0bfb5910
 
