@@ -1,3 +1,4 @@
-985k  114.243.156.93:8888
-385k  buffaloft.ignorelist.com:8888
-294k  123.113.236.69:8012
+988k  buffaloft.ignorelist.com:8888
+981k  114.249.229.59:8012
+980k  111.196.191.184:5555
+170k  beijing_unicom_udpxy_123_113_237_8888_1.isus.cc:8888
